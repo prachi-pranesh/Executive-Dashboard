@@ -75,23 +75,11 @@ nexara-dashboard/
 
 ## Tools & Implementation
 
-**Dashboard tool:** Power BI *(update this if the dashboard was built in another tool)*
+**Dashboard tool:** Power BI *
 
 The dashboard uses interactive visualisations, KPI cards, trend charts, category comparisons, and detailed tables. Add the data source, modelling approach, refresh cadence, and exact technology stack here if you want this README to serve as a technical project document.
 
-## Notes
 
-- Screenshots are included for portfolio and documentation purposes.
-- Figures shown in the screenshots reflect the displayed reporting periods and should not be interpreted as live data unless connected to a refreshed data source.
-- Ensure that any data shared publicly is approved for disclosure and does not expose confidential or personally identifiable information.
-
-## Future Improvements
-
-- Add a data dictionary describing each KPI and its calculation
-- Document data sources, relationships, and transformation logic
-- Add a methodology note for sentiment classification and estimated footfall
-- Include accessibility checks, chart descriptions, and a consistent colour legend
-- Add a short walkthrough or demo link
 
 ---
 
