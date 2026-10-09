@@ -75,7 +75,7 @@ nexara-dashboard/
 
 ## Tools & Implementation
 
-**Dashboard tool:** Power BI *
+**Dashboard tool:** Power BI 
 
 The dashboard uses interactive visualisations, KPI cards, trend charts, category comparisons, and detailed tables. Add the data source, modelling approach, refresh cadence, and exact technology stack here if you want this README to serve as a technical project document.
 
@@ -83,4 +83,3 @@ The dashboard uses interactive visualisations, KPI cards, trend charts, category
 
 ---
 
-*Built as a stakeholder experience and sentiment analytics dashboard.*
