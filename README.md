@@ -9,27 +9,27 @@ The dashboard brings multiple views together so stakeholders can move from high-
 ### Overview
 High-level view of total responses, average CSAT, average NPS, sentiment distribution, area-level comparisons, and response trends.
 
-![Nexara Overview](assets/overview.png)
+![Nexara Overview](overview.png)
 
 ### Journey
 Journey-stage analysis across Awareness, Arrival, Core Experience, Services, and Exit, including experience sentiment, stakeholder-segment comparisons, and sentiment distribution.
 
-![Nexara Journey](assets/journey.png)
+![Nexara Journey](journey.png)
 
 ### Surveys
 Survey response analysis with CSAT and NPS by stakeholder segment, period comparisons, issue categories, monthly issue volume, and sentiment analysis.
 
-![Nexara Surveys](assets/surveys.png)
+![Nexara Surveys](surveys.png)
 
 ### Social
 Social media performance and conversation analysis, including post and engagement metrics, platform/content-type performance, monthly sentiment, and keyword trends.
 
-![Nexara Social](assets/social.png)
+![Nexara Social](social.png)
 
 ### Geographic
 Area-level comparison of responses, estimated footfall, issues, CSAT, NPS, and CES.
 
-![Nexara Geographic](assets/geographic.png)
+![Nexara Geographic](geographic.png)
 
 ## Dashboard Sections
 
@@ -65,7 +65,7 @@ Area-level comparison of responses, estimated footfall, issues, CSAT, NPS, and C
 ```text
 nexara-dashboard/
 ├── README.md
-└── assets/
+└── 
     ├── overview.png
     ├── journey.png
     ├── surveys.png
