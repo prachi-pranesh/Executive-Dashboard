@@ -1,0 +1,1001 @@
+Response_ID,Date,Customer_Segment,Journey_Stage,Region,Area,Channel,Language,Gender,Age_Group,CSAT,NPS,CES,Sentiment,Issue_Category,Keyword,Access_Mode,Resolved
+1001,27-01-2026,Visitor,Services,South,Area 6,Survey,Arabic,Female,18-24,4,89,4,Neutral,Parking,parking,Car,Yes
+1002,20-04-2026,Office Worker,Awareness,South,Area 1,Survey,English,Male,25-34,5,-63,4,Positive,Facilities,restroom,Metro,No
+1003,03-04-2026,Employee,Awareness,Central,Area 1,Website,English,Female,35-44,1,37,2,Neutral,Cleanliness,cleanliness,Metro,Yes
+1004,23-01-2026,Visitor,Exit,Central,Area 2,Call Center,Arabic,Female,18-24,3,10,4,Neutral,Wayfinding,signage,Car,No
+1005,21-02-2025,Office Worker,Exit,North,Area 3,Survey,English,Male,35-44,2,81,3,Neutral,Digital,wifi,Car,Yes
+1006,21-02-2025,Office Worker,Services,West,Area 2,Survey,Arabic,Female,55+,5,55,2,Neutral,Cleanliness,cleanliness,Car,No
+1007,30-01-2026,Visitor,Exit,Central,Area 2,Website,English,Male,18-24,1,29,5,Neutral,Security,safety,Metro,No
+1008,20-06-2026,Employee,Awareness,East,Area 1,Website,English,Female,45-54,2,19,3,Neutral,Digital,app,Car,Yes
+1009,17-05-2026,Office Worker,Awareness,East,Area 2,Website,Arabic,Female,25-34,1,22,1,Positive,Cleanliness,cleanliness,Metro,No
+1010,16-01-2026,Retail Tenant,Services,North,Area 2,Survey,English,Male,45-54,3,96,5,Neutral,Digital,app,Metro,Yes
+1011,03-04-2026,Employee,Awareness,North,Area 2,App,Arabic,Female,18-24,5,57,3,Neutral,Security,security,Metro,No
+1012,21-02-2025,Employee,Arrival,West,Area 2,Website,Arabic,Female,25-34,1,89,4,Neutral,Parking,parking,Car,No
+1013,23-05-2026,Employee,Exit,East,Area 3,Call Center,English,Female,55+,3,35,4,Neutral,Wayfinding,signage,Metro,Yes
+1014,21-02-2025,Visitor,Exit,Central,Area 7,Website,Arabic,Female,45-54,5,64,5,Neutral,Wayfinding,signage,Metro,Yes
+1015,24-03-2026,Resident,Arrival,West,Area 1,Website,English,Female,55+,4,77,1,Neutral,Support,helpdesk,Metro,Yes
+1016,24-04-2026,Employee,Exit,Central,Area 1,App,Arabic,Male,18-24,1,95,4,Neutral,Security,security,Car,No
+1017,17-04-2026,Retail Tenant,Exit,South,Area 3,Website,Arabic,Female,45-54,3,-68,5,Negative,Cleanliness,cleanliness,Car,No
+1018,17-02-2026,Office Worker,Awareness,North,Area 7,App,English,Female,55+,1,30,1,Neutral,Support,helpdesk,Car,No
+1019,23-05-2026,Retail Tenant,Services,Central,Area 1,Survey,English,Male,25-34,5,-98,5,Negative,Support,concierge,Car,No
+1020,18-03-2026,Visitor,Exit,West,Area 1,App,Arabic,Male,35-44,3,6,5,Neutral,Digital,wifi,Car,Yes
+1021,11-04-2026,Employee,Awareness,South,Area 2,Call Center,English,Male,45-54,2,67,4,Neutral,Digital,wifi,Metro,No
+1022,19-01-2026,Office Worker,Core Experience,East,Area 6,Call Center,English,Female,25-34,4,24,3,Positive,Cleanliness,maintenance,Metro,Yes
+1023,21-02-2025,Visitor,Core Experience,North,Area 6,App,Arabic,Male,25-34,5,82,4,Positive,Security,safety,Metro,No
+1024,29-05-2026,Resident,Arrival,South,Area 2,App,Arabic,Male,45-54,4,61,1,Positive,Facilities,shade,Metro,Yes
+1025,21-02-2025,Retail Tenant,Arrival,Central,Area 2,Survey,Arabic,Male,55+,3,-58,4,Neutral,Facilities,restroom,Car,Yes
+1026,22-06-2026,Visitor,Exit,West,Area 2,Call Center,Arabic,Male,45-54,3,21,1,Neutral,Security,safety,Car,No
+1027,21-02-2025,Resident,Services,South,Area 3,App,Arabic,Female,55+,3,89,4,Neutral,Parking,parking,Car,No
+1028,21-02-2025,Resident,Arrival,North,Area 6,App,English,Male,55+,4,85,3,Neutral,Support,concierge,Metro,No
+1029,25-04-2026,Office Worker,Services,East,Area 2,Survey,Arabic,Male,25-34,4,5,5,Neutral,Wayfinding,signage,Car,Yes
+1030,12-03-2026,Retail Tenant,Exit,East,Area 2,App,English,Male,25-34,4,41,1,Neutral,Support,concierge,Metro,Yes
+1031,12-01-2026,Office Worker,Core Experience,East,Area 6,App,English,Male,45-54,3,15,3,Positive,Parking,car park,Car,Yes
+1032,24-06-2026,Employee,Exit,North,Area 1,Survey,Arabic,Female,55+,4,1,5,Neutral,Facilities,shade,Metro,Yes
+1033,21-02-2025,Resident,Core Experience,East,Area 3,Survey,English,Female,45-54,5,53,4,Positive,Cleanliness,cleanliness,Metro,No
+1034,21-02-2025,Retail Tenant,Exit,East,Area 1,Survey,English,Female,18-24,1,-34,2,Negative,Digital,app,Metro,Yes
+1035,23-03-2026,Employee,Services,West,Area 3,Website,English,Male,35-44,3,-4,5,Neutral,Security,safety,Metro,Yes
+1036,19-04-2026,Resident,Services,South,Area 2,Survey,English,Male,35-44,4,98,4,Positive,Cleanliness,cleanliness,Metro,No
+1037,11-04-2026,Employee,Awareness,North,Area 2,Call Center,English,Male,25-34,1,35,2,Neutral,Digital,wifi,Car,No
+1038,21-02-2025,Employee,Services,North,Area 1,Call Center,Arabic,Male,35-44,5,37,2,Neutral,Security,security,Car,Yes
+1039,03-04-2026,Retail Tenant,Arrival,West,Area 2,App,English,Female,18-24,4,-85,4,Neutral,Security,safety,Metro,No
+1040,14-04-2026,Visitor,Arrival,East,Area 5,Survey,Arabic,Male,25-34,1,31,5,Neutral,Cleanliness,maintenance,Car,No
+1041,12-03-2026,Resident,Arrival,North,Area 2,Call Center,Arabic,Female,18-24,2,71,3,Positive,Digital,app,Metro,Yes
+1042,30-03-2026,Employee,Services,West,Area 2,App,English,Female,45-54,1,53,5,Neutral,Digital,app,Car,Yes
+1043,18-05-2026,Office Worker,Arrival,Central,Area 2,App,Arabic,Female,45-54,1,15,2,Neutral,Support,concierge,Car,Yes
+1044,10-04-2026,Office Worker,Awareness,South,Area 4,Website,English,Male,55+,4,83,1,Positive,Facilities,shade,Metro,Yes
+1045,29-05-2026,Retail Tenant,Services,West,Area 2,Call Center,English,Male,45-54,2,92,4,Neutral,Cleanliness,maintenance,Car,Yes
+1046,07-01-2026,Resident,Services,North,Area 2,Survey,English,Male,18-24,3,91,5,Positive,Support,helpdesk,Metro,Yes
+1047,11-05-2026,Employee,Awareness,South,Area 2,Survey,Arabic,Male,25-34,3,62,4,Positive,Security,security,Car,No
+1048,07-05-2026,Resident,Arrival,East,Area 1,App,Arabic,Male,55+,4,59,2,Positive,Facilities,shade,Car,Yes
+1049,10-06-2026,Retail Tenant,Arrival,West,Area 3,Survey,English,Female,55+,5,50,2,Neutral,Security,security,Metro,No
+1050,19-06-2026,Retail Tenant,Core Experience,West,Area 1,Survey,Arabic,Female,45-54,2,-35,5,Positive,Support,concierge,Car,Yes
+1051,09-05-2026,Retail Tenant,Services,South,Area 2,App,Arabic,Male,55+,2,36,1,Neutral,Parking,parking,Car,No
+1052,21-02-2025,Visitor,Awareness,East,Area 1,Call Center,Arabic,Male,25-34,4,65,3,Positive,Security,security,Car,Yes
+1053,27-05-2026,Resident,Services,West,Area 1,Survey,English,Male,25-34,3,37,1,Positive,Digital,app,Car,No
+1054,08-03-2026,Employee,Core Experience,South,Area 4,Call Center,English,Female,45-54,3,-26,5,Positive,Security,safety,Car,No
+1055,16-01-2026,Resident,Services,North,Area 3,Survey,Arabic,Female,25-34,4,58,2,Positive,Digital,app,Metro,Yes
+1056,02-05-2026,Resident,Arrival,West,Area 1,Website,Arabic,Male,25-34,5,45,4,Positive,Digital,wifi,Metro,No
+1057,24-06-2026,Resident,Exit,Central,Area 2,App,English,Female,55+,3,-3,5,Neutral,Wayfinding,navigation,Car,Yes
+1058,19-05-2026,Office Worker,Services,West,Area 1,App,Arabic,Female,35-44,5,59,4,Negative,Parking,car park,Metro,No
+1059,21-02-2025,Office Worker,Awareness,West,Area 2,Survey,English,Male,45-54,3,90,2,Neutral,Security,security,Car,Yes
+1060,21-05-2026,Employee,Awareness,North,Area 5,Call Center,Arabic,Male,55+,2,50,5,Neutral,Support,concierge,Metro,Yes
+1061,23-01-2026,Resident,Core Experience,North,Area 4,App,Arabic,Female,45-54,2,6,4,Neutral,Parking,parking,Car,Yes
+1062,20-01-2026,Office Worker,Arrival,East,Area 5,Survey,Arabic,Male,18-24,3,91,4,Neutral,Digital,app,Metro,No
+1063,01-04-2026,Resident,Awareness,South,Area 3,Call Center,Arabic,Male,18-24,4,85,4,Neutral,Security,safety,Car,No
+1064,12-01-2026,Employee,Exit,North,Area 2,Website,English,Male,18-24,2,5,4,Neutral,Security,safety,Metro,No
+1065,26-04-2026,Employee,Arrival,West,Area 2,Call Center,Arabic,Male,25-34,2,76,5,Neutral,Support,concierge,Car,Yes
+1066,21-02-2025,Visitor,Awareness,South,Area 3,App,Arabic,Male,35-44,3,57,1,Positive,Cleanliness,maintenance,Metro,No
+1067,13-01-2026,Employee,Arrival,East,Area 5,App,English,Male,18-24,1,59,5,Negative,Parking,car park,Car,No
+1068,11-01-2026,Office Worker,Arrival,Central,Area 6,Website,English,Male,18-24,1,53,2,Positive,Facilities,restroom,Metro,Yes
+1069,09-06-2026,Employee,Services,East,Area 4,App,Arabic,Male,25-34,2,61,1,Positive,Wayfinding,signage,Car,Yes
+1070,11-01-2026,Office Worker,Arrival,North,Area 7,Website,English,Female,45-54,3,80,3,Positive,Cleanliness,cleanliness,Metro,No
+1071,04-06-2026,Retail Tenant,Exit,East,Area 3,Survey,Arabic,Male,35-44,4,43,1,Neutral,Facilities,restroom,Metro,Yes
+1072,21-02-2025,Visitor,Core Experience,East,Area 5,App,English,Female,35-44,5,41,4,Positive,Digital,wifi,Car,No
+1073,30-05-2026,Retail Tenant,Awareness,North,Area 1,Website,Arabic,Male,35-44,4,5,5,Neutral,Security,safety,Metro,Yes
+1074,24-06-2026,Retail Tenant,Arrival,North,Area 2,Website,English,Female,18-24,5,31,1,Negative,Cleanliness,cleanliness,Metro,Yes
+1075,08-06-2026,Visitor,Awareness,West,Area 1,Call Center,Arabic,Female,18-24,3,96,2,Neutral,Parking,car park,Car,Yes
+1076,27-01-2026,Resident,Arrival,Central,Area 1,Survey,Arabic,Male,25-34,1,13,4,Neutral,Support,concierge,Car,No
+1077,21-02-2025,Resident,Services,North,Area 5,Call Center,Arabic,Female,45-54,1,-79,4,Neutral,Facilities,restroom,Metro,Yes
+1078,21-02-2025,Retail Tenant,Core Experience,East,Area 2,Survey,Arabic,Male,55+,3,6,1,Positive,Facilities,restroom,Metro,Yes
+1079,24-06-2026,Visitor,Exit,East,Area 2,Survey,Arabic,Male,18-24,3,38,1,Neutral,Parking,parking,Metro,Yes
+1080,24-06-2026,Visitor,Services,North,Area 7,Website,Arabic,Male,55+,3,56,3,Neutral,Facilities,shade,Metro,No
+1081,23-05-2026,Office Worker,Awareness,North,Area 2,Website,Arabic,Female,55+,2,68,2,Neutral,Facilities,shade,Car,No
+1082,18-05-2026,Visitor,Arrival,Central,Area 2,Call Center,Arabic,Female,35-44,4,88,5,Neutral,Cleanliness,maintenance,Metro,Yes
+1083,15-05-2026,Office Worker,Exit,East,Area 1,App,Arabic,Female,35-44,2,23,2,Neutral,Facilities,shade,Car,Yes
+1084,17-04-2026,Office Worker,Awareness,Central,Area 1,Call Center,English,Male,35-44,1,49,5,Neutral,Digital,wifi,Metro,Yes
+1085,22-01-2026,Visitor,Arrival,East,Area 3,Survey,English,Male,35-44,5,64,2,Neutral,Parking,car park,Car,Yes
+1086,27-06-2026,Retail Tenant,Exit,North,Area 1,Website,English,Female,18-24,5,-71,2,Neutral,Security,security,Car,Yes
+1087,08-03-2026,Resident,Services,Central,Area 2,Website,Arabic,Female,18-24,4,59,3,Positive,Facilities,shade,Metro,Yes
+1088,12-06-2026,Resident,Arrival,Central,Area 5,Call Center,Arabic,Female,18-24,3,60,1,Positive,Support,concierge,Car,Yes
+1089,23-05-2026,Resident,Arrival,Central,Area 3,Website,English,Female,45-54,3,21,5,Positive,Support,helpdesk,Metro,No
+1090,21-02-2025,Resident,Exit,South,Area 1,Survey,English,Male,35-44,1,45,4,Positive,Security,safety,Car,Yes
+1091,12-03-2026,Retail Tenant,Core Experience,East,Area 2,Website,English,Male,55+,5,82,3,Neutral,Wayfinding,signage,Car,Yes
+1092,05-06-2026,Retail Tenant,Core Experience,West,Area 2,App,Arabic,Female,25-34,4,59,3,Neutral,Facilities,restroom,Metro,No
+1093,21-02-2025,Visitor,Core Experience,West,Area 2,Call Center,Arabic,Male,55+,3,50,2,Positive,Parking,car park,Metro,Yes
+1094,30-01-2026,Resident,Services,West,Area 2,Website,Arabic,Male,35-44,4,31,1,Neutral,Wayfinding,navigation,Car,No
+1095,31-01-2026,Employee,Core Experience,South,Area 1,Survey,Arabic,Male,18-24,4,46,5,Positive,Cleanliness,cleanliness,Car,Yes
+1096,20-03-2026,Employee,Awareness,South,Area 3,App,English,Female,25-34,5,90,3,Neutral,Parking,parking,Metro,No
+1097,04-05-2026,Retail Tenant,Exit,South,Area 6,Website,English,Female,18-24,3,85,1,Neutral,Wayfinding,navigation,Car,No
+1098,25-04-2026,Retail Tenant,Arrival,East,Area 4,Website,English,Male,18-24,4,2,3,Neutral,Support,helpdesk,Metro,No
+1099,21-02-2025,Employee,Services,South,Area 3,Website,Arabic,Female,45-54,5,78,1,Neutral,Cleanliness,cleanliness,Car,No
+1100,29-05-2026,Retail Tenant,Arrival,West,Area 2,Call Center,Arabic,Female,18-24,4,100,3,Neutral,Facilities,shade,Car,Yes
+1101,19-04-2026,Resident,Arrival,East,Area 3,Survey,English,Male,18-24,2,46,5,Positive,Security,security,Metro,No
+1102,21-02-2025,Resident,Core Experience,North,Area 2,Call Center,English,Male,18-24,2,80,2,Positive,Cleanliness,cleanliness,Car,No
+1103,26-03-2026,Office Worker,Awareness,North,Area 2,Call Center,English,Male,25-34,3,81,2,Neutral,Support,helpdesk,Metro,No
+1104,05-05-2026,Visitor,Awareness,North,Area 6,Website,Arabic,Female,25-34,1,40,1,Neutral,Wayfinding,signage,Metro,Yes
+1105,18-06-2026,Visitor,Arrival,South,Area 2,Call Center,Arabic,Female,25-34,4,75,1,Neutral,Wayfinding,signage,Metro,Yes
+1106,21-02-2025,Resident,Services,North,Area 1,Survey,Arabic,Female,55+,3,12,2,Neutral,Wayfinding,signage,Car,No
+1107,01-03-2026,Visitor,Arrival,East,Area 2,Website,Arabic,Male,18-24,3,96,3,Negative,Parking,parking,Car,Yes
+1108,04-04-2026,Office Worker,Awareness,Central,Area 6,App,English,Male,25-34,4,26,2,Positive,Facilities,shade,Metro,No
+1109,21-04-2026,Office Worker,Arrival,South,Area 4,Call Center,Arabic,Female,55+,2,47,5,Neutral,Digital,wifi,Car,No
+1110,13-06-2026,Visitor,Services,Central,Area 1,App,Arabic,Female,18-24,5,35,5,Neutral,Support,concierge,Metro,No
+1111,11-01-2026,Resident,Awareness,North,Area 6,App,Arabic,Male,25-34,2,62,3,Positive,Support,concierge,Metro,Yes
+1112,22-05-2026,Employee,Exit,South,Area 2,Call Center,Arabic,Female,45-54,3,15,3,Neutral,Security,security,Car,Yes
+1113,14-04-2026,Office Worker,Services,Central,Area 3,Website,Arabic,Female,25-34,4,19,1,Neutral,Parking,car park,Car,Yes
+1114,26-06-2026,Retail Tenant,Core Experience,West,Area 1,Website,Arabic,Female,55+,2,-29,4,Neutral,Support,concierge,Car,Yes
+1115,28-01-2026,Retail Tenant,Exit,West,Area 6,Website,Arabic,Male,18-24,3,51,1,Neutral,Facilities,shade,Metro,Yes
+1116,31-01-2026,Office Worker,Awareness,South,Area 5,Call Center,English,Female,35-44,1,69,3,Neutral,Wayfinding,navigation,Car,Yes
+1117,16-01-2026,Resident,Awareness,East,Area 1,Call Center,English,Male,25-34,1,48,4,Positive,Wayfinding,signage,Metro,Yes
+1118,03-06-2026,Resident,Exit,North,Area 2,Survey,Arabic,Male,55+,3,49,5,Neutral,Digital,app,Car,Yes
+1119,27-03-2026,Retail Tenant,Arrival,North,Area 3,App,Arabic,Male,18-24,3,87,1,Neutral,Facilities,restroom,Car,Yes
+1120,08-06-2026,Office Worker,Core Experience,North,Area 7,Website,Arabic,Male,18-24,2,4,4,Positive,Parking,parking,Car,Yes
+1121,12-05-2026,Office Worker,Exit,East,Area 1,Survey,Arabic,Female,45-54,5,42,5,Neutral,Support,helpdesk,Metro,Yes
+1122,30-05-2026,Office Worker,Arrival,South,Area 2,App,English,Female,55+,5,83,2,Neutral,Wayfinding,signage,Metro,No
+1123,28-04-2026,Resident,Services,North,Area 3,Website,English,Male,35-44,1,90,4,Neutral,Facilities,restroom,Car,No
+1124,21-02-2025,Office Worker,Awareness,North,Area 2,Website,Arabic,Male,18-24,3,15,4,Positive,Facilities,shade,Car,No
+1125,10-01-2026,Resident,Exit,East,Area 2,App,Arabic,Male,55+,2,5,1,Positive,Cleanliness,cleanliness,Car,Yes
+1126,06-01-2026,Office Worker,Arrival,Central,Area 6,Website,Arabic,Male,18-24,3,15,4,Neutral,Digital,app,Metro,Yes
+1127,13-05-2026,Retail Tenant,Awareness,Central,Area 1,Call Center,English,Male,25-34,1,69,2,Neutral,Cleanliness,cleanliness,Metro,No
+1128,21-02-2025,Resident,Arrival,West,Area 2,Survey,English,Female,45-54,2,59,4,Positive,Digital,app,Metro,No
+1129,06-05-2026,Employee,Services,North,Area 3,Website,Arabic,Male,35-44,3,54,5,Neutral,Facilities,restroom,Metro,Yes
+1130,21-02-2025,Resident,Exit,South,Area 1,App,Arabic,Female,55+,5,54,2,Positive,Cleanliness,maintenance,Metro,No
+1131,16-01-2026,Retail Tenant,Awareness,North,Area 2,Call Center,Arabic,Female,55+,1,79,4,Neutral,Digital,wifi,Metro,No
+1132,31-01-2026,Office Worker,Services,South,Area 2,App,English,Female,25-34,4,5,3,Neutral,Support,concierge,Car,No
+1133,16-04-2026,Visitor,Core Experience,South,Area 2,Website,Arabic,Female,45-54,3,57,2,Positive,Wayfinding,navigation,Metro,No
+1134,28-03-2026,Office Worker,Services,East,Area 2,Call Center,English,Male,18-24,4,47,2,Neutral,Cleanliness,maintenance,Metro,No
+1135,17-03-2026,Resident,Core Experience,Central,Area 4,Call Center,English,Male,25-34,1,70,3,Positive,Digital,app,Metro,No
+1136,27-05-2026,Visitor,Arrival,North,Area 3,Call Center,English,Male,25-34,3,51,1,Neutral,Security,security,Metro,Yes
+1137,13-04-2026,Retail Tenant,Arrival,Central,Area 2,Survey,Arabic,Male,45-54,3,16,2,Negative,Security,security,Metro,Yes
+1138,09-04-2026,Resident,Awareness,West,Area 5,Survey,Arabic,Male,45-54,4,85,1,Neutral,Digital,wifi,Car,Yes
+1139,18-05-2026,Retail Tenant,Arrival,South,Area 5,Survey,English,Female,45-54,2,3,5,Neutral,Support,concierge,Car,Yes
+1140,06-03-2026,Resident,Services,Central,Area 2,Website,English,Female,18-24,1,32,3,Neutral,Parking,parking,Car,Yes
+1141,31-05-2026,Visitor,Exit,Central,Area 2,App,Arabic,Female,35-44,2,27,5,Positive,Facilities,restroom,Car,No
+1142,21-02-2025,Retail Tenant,Awareness,East,Area 1,Survey,Arabic,Male,18-24,1,27,5,Neutral,Cleanliness,cleanliness,Metro,No
+1143,15-01-2026,Retail Tenant,Arrival,East,Area 5,Survey,English,Male,18-24,5,30,2,Negative,Facilities,shade,Metro,No
+1144,27-06-2026,Visitor,Exit,South,Area 7,App,Arabic,Male,55+,3,77,2,Positive,Support,concierge,Car,Yes
+1145,02-03-2026,Employee,Awareness,South,Area 2,Website,Arabic,Female,25-34,1,19,3,Positive,Security,safety,Metro,Yes
+1146,21-02-2025,Employee,Services,North,Area 7,Website,Arabic,Female,25-34,2,33,5,Positive,Security,security,Car,Yes
+1147,07-04-2026,Employee,Awareness,Central,Area 2,App,English,Female,18-24,2,85,1,Positive,Security,safety,Car,Yes
+1148,23-05-2026,Office Worker,Awareness,North,Area 4,Website,Arabic,Female,35-44,1,2,2,Neutral,Parking,parking,Metro,No
+1149,15-05-2026,Resident,Core Experience,East,Area 1,App,English,Female,18-24,3,76,2,Positive,Security,safety,Metro,No
+1150,31-03-2026,Resident,Arrival,Central,Area 1,Website,Arabic,Female,25-34,3,23,1,Positive,Digital,wifi,Metro,No
+1151,16-04-2026,Resident,Arrival,West,Area 1,Website,Arabic,Male,18-24,3,-84,1,Positive,Security,security,Car,No
+1152,21-02-2025,Visitor,Exit,East,Area 2,Survey,English,Female,25-34,4,15,5,Neutral,Support,helpdesk,Car,No
+1153,14-05-2026,Visitor,Core Experience,South,Area 2,Website,English,Female,55+,1,58,4,Neutral,Parking,parking,Metro,No
+1154,05-05-2026,Resident,Awareness,South,Area 2,Survey,English,Male,55+,3,76,5,Positive,Parking,parking,Metro,No
+1155,21-02-2025,Office Worker,Awareness,East,Area 1,App,English,Female,55+,1,65,4,Neutral,Support,helpdesk,Metro,Yes
+1156,21-04-2026,Resident,Awareness,North,Area 7,Website,English,Female,25-34,2,6,5,Positive,Cleanliness,maintenance,Metro,Yes
+1157,03-06-2026,Office Worker,Arrival,North,Area 1,Call Center,English,Male,35-44,5,59,3,Positive,Digital,wifi,Car,No
+1158,26-06-2026,Visitor,Awareness,East,Area 2,Call Center,Arabic,Male,18-24,1,62,1,Neutral,Digital,app,Car,Yes
+1159,28-06-2026,Office Worker,Exit,South,Area 2,Survey,English,Male,18-24,4,88,4,Positive,Security,security,Car,Yes
+1160,27-06-2026,Employee,Awareness,South,Area 1,Survey,English,Female,18-24,1,92,4,Positive,Digital,wifi,Car,No
+1161,11-01-2026,Retail Tenant,Arrival,West,Area 2,App,English,Female,18-24,4,11,1,Negative,Cleanliness,cleanliness,Metro,No
+1162,09-06-2026,Retail Tenant,Arrival,Central,Area 4,Survey,Arabic,Male,18-24,3,19,5,Neutral,Wayfinding,signage,Car,Yes
+1163,03-01-2026,Employee,Awareness,North,Area 2,Survey,Arabic,Male,45-54,1,36,2,Negative,Parking,car park,Metro,Yes
+1164,27-04-2026,Visitor,Core Experience,West,Area 2,Website,English,Male,55+,5,71,5,Positive,Support,helpdesk,Metro,No
+1165,04-06-2026,Employee,Core Experience,North,Area 6,Survey,Arabic,Female,25-34,3,77,4,Positive,Facilities,restroom,Metro,No
+1166,21-02-2025,Resident,Exit,Central,Area 1,Survey,Arabic,Male,35-44,5,59,3,Positive,Wayfinding,navigation,Metro,Yes
+1167,15-01-2026,Retail Tenant,Awareness,West,Area 2,Survey,English,Male,25-34,5,56,5,Negative,Support,helpdesk,Car,Yes
+1168,26-03-2026,Resident,Exit,South,Area 1,App,Arabic,Female,18-24,1,84,1,Positive,Support,concierge,Metro,No
+1169,21-02-2025,Resident,Exit,Central,Area 6,App,Arabic,Male,45-54,5,56,2,Neutral,Facilities,shade,Car,Yes
+1170,29-06-2026,Resident,Awareness,East,Area 2,Website,English,Male,45-54,4,53,2,Positive,Security,security,Car,No
+1171,09-05-2026,Visitor,Arrival,South,Area 2,App,English,Male,18-24,3,52,4,Positive,Wayfinding,navigation,Car,Yes
+1172,16-04-2026,Resident,Exit,Central,Area 6,Survey,Arabic,Male,25-34,4,41,1,Neutral,Wayfinding,signage,Car,Yes
+1173,09-06-2026,Visitor,Exit,North,Area 1,Call Center,Arabic,Female,45-54,4,86,3,Neutral,Wayfinding,signage,Metro,No
+1174,25-06-2026,Resident,Core Experience,West,Area 1,Website,Arabic,Female,55+,3,20,3,Positive,Digital,app,Car,No
+1175,03-01-2026,Employee,Core Experience,West,Area 6,Survey,Arabic,Female,25-34,4,-89,1,Positive,Facilities,shade,Car,Yes
+1176,22-05-2026,Employee,Services,Central,Area 2,Call Center,English,Male,55+,1,56,1,Neutral,Security,security,Car,Yes
+1177,28-03-2026,Employee,Arrival,Central,Area 2,App,English,Female,18-24,1,17,3,Neutral,Support,helpdesk,Car,No
+1178,19-03-2026,Visitor,Awareness,North,Area 4,Survey,Arabic,Female,18-24,5,-25,1,Neutral,Parking,parking,Car,Yes
+1179,02-05-2026,Employee,Awareness,East,Area 3,Website,Arabic,Female,25-34,5,43,5,Neutral,Security,safety,Car,No
+1180,03-06-2026,Visitor,Exit,Central,Area 1,App,Arabic,Female,25-34,1,46,4,Neutral,Wayfinding,navigation,Car,No
+1181,20-06-2026,Retail Tenant,Core Experience,East,Area 2,Call Center,Arabic,Male,25-34,4,37,1,Positive,Digital,wifi,Car,No
+1182,15-05-2026,Office Worker,Arrival,South,Area 1,Website,Arabic,Female,55+,5,46,3,Neutral,Cleanliness,maintenance,Car,No
+1183,22-03-2026,Visitor,Awareness,East,Area 1,Call Center,English,Male,25-34,1,65,5,Positive,Facilities,shade,Car,No
+1184,29-05-2026,Visitor,Awareness,Central,Area 3,Survey,Arabic,Male,25-34,2,85,2,Neutral,Wayfinding,navigation,Car,No
+1185,04-03-2026,Employee,Core Experience,East,Area 4,Call Center,English,Male,55+,4,-87,2,Positive,Wayfinding,signage,Metro,No
+1186,22-04-2026,Resident,Core Experience,East,Area 4,App,English,Male,35-44,3,-53,5,Positive,Parking,car park,Car,Yes
+1187,05-04-2026,Visitor,Services,North,Area 2,Survey,Arabic,Female,18-24,1,74,3,Neutral,Security,safety,Metro,No
+1188,18-06-2026,Employee,Awareness,Central,Area 4,App,Arabic,Female,18-24,2,72,4,Positive,Facilities,restroom,Car,Yes
+1189,31-03-2026,Office Worker,Services,South,Area 2,Survey,Arabic,Male,45-54,5,87,5,Neutral,Support,concierge,Car,No
+1190,27-03-2026,Office Worker,Awareness,East,Area 1,App,English,Female,25-34,5,-23,1,Neutral,Cleanliness,cleanliness,Metro,Yes
+1191,06-05-2026,Resident,Core Experience,Central,Area 2,Call Center,Arabic,Male,35-44,3,24,1,Positive,Cleanliness,maintenance,Car,Yes
+1192,14-04-2026,Visitor,Exit,Central,Area 2,Call Center,English,Female,25-34,3,44,3,Neutral,Facilities,restroom,Metro,No
+1193,29-01-2026,Visitor,Awareness,South,Area 6,Website,Arabic,Male,25-34,3,24,1,Neutral,Wayfinding,signage,Metro,Yes
+1194,27-03-2026,Retail Tenant,Awareness,East,Area 1,Call Center,English,Male,45-54,2,85,5,Negative,Parking,car park,Metro,No
+1195,01-01-2026,Office Worker,Services,Central,Area 1,Website,Arabic,Male,45-54,4,19,1,Neutral,Wayfinding,navigation,Car,No
+1196,21-02-2025,Retail Tenant,Awareness,South,Area 3,Survey,Arabic,Female,45-54,1,96,1,Negative,Cleanliness,cleanliness,Metro,Yes
+1197,12-06-2026,Office Worker,Exit,Central,Area 5,Call Center,English,Male,35-44,5,49,2,Neutral,Cleanliness,cleanliness,Metro,Yes
+1198,06-04-2026,Visitor,Services,South,Area 1,App,Arabic,Female,25-34,4,44,4,Positive,Facilities,restroom,Car,Yes
+1199,21-05-2026,Employee,Services,North,Area 2,Survey,English,Female,25-34,2,40,3,Neutral,Security,safety,Metro,No
+1200,05-04-2026,Resident,Awareness,South,Area 2,App,Arabic,Male,35-44,3,77,5,Neutral,Digital,wifi,Metro,No
+1201,15-03-2026,Employee,Core Experience,East,Area 2,Website,English,Male,35-44,1,-81,1,Positive,Facilities,restroom,Metro,No
+1202,04-04-2026,Office Worker,Core Experience,West,Area 4,Survey,Arabic,Male,25-34,2,7,5,Positive,Cleanliness,cleanliness,Metro,Yes
+1203,26-04-2026,Employee,Core Experience,West,Area 2,App,English,Male,45-54,1,-44,3,Positive,Security,security,Metro,Yes
+1204,11-05-2026,Office Worker,Arrival,North,Area 2,Call Center,English,Female,35-44,4,78,4,Neutral,Digital,app,Car,No
+1205,01-04-2026,Retail Tenant,Awareness,Central,Area 2,Call Center,English,Male,35-44,4,35,4,Negative,Parking,car park,Car,Yes
+1206,16-01-2026,Office Worker,Awareness,South,Area 1,Call Center,Arabic,Male,18-24,2,15,5,Neutral,Wayfinding,signage,Car,No
+1207,21-02-2025,Visitor,Services,South,Area 2,Survey,English,Female,55+,3,15,4,Positive,Wayfinding,signage,Car,No
+1208,29-06-2026,Employee,Arrival,East,Area 3,App,English,Female,35-44,3,63,5,Positive,Security,security,Car,No
+1209,13-01-2026,Visitor,Exit,North,Area 1,App,Arabic,Male,18-24,5,6,3,Neutral,Parking,car park,Metro,Yes
+1210,29-03-2026,Office Worker,Awareness,South,Area 2,Website,Arabic,Male,35-44,2,77,4,Neutral,Wayfinding,signage,Car,No
+1211,06-01-2026,Employee,Services,West,Area 2,Website,Arabic,Female,55+,1,-74,1,Neutral,Cleanliness,cleanliness,Metro,Yes
+1212,21-02-2025,Resident,Arrival,East,Area 1,Website,English,Female,25-34,3,99,2,Positive,Security,security,Metro,No
+1213,01-01-2026,Employee,Awareness,East,Area 1,App,Arabic,Female,55+,2,38,3,Positive,Security,security,Metro,No
+1214,07-04-2026,Retail Tenant,Arrival,West,Area 3,App,English,Female,35-44,3,1,1,Negative,Wayfinding,navigation,Car,Yes
+1215,29-06-2026,Retail Tenant,Arrival,West,Area 2,Website,English,Male,18-24,4,23,4,Negative,Wayfinding,navigation,Metro,No
+1216,23-03-2026,Visitor,Arrival,Central,Area 3,App,English,Male,25-34,2,69,4,Neutral,Support,helpdesk,Car,No
+1217,23-04-2026,Resident,Exit,Central,Area 2,Survey,English,Male,55+,2,72,5,Neutral,Support,concierge,Metro,Yes
+1218,18-05-2026,Visitor,Arrival,South,Area 2,App,English,Male,35-44,3,51,1,Neutral,Wayfinding,navigation,Car,No
+1219,21-02-2025,Resident,Arrival,Central,Area 5,Call Center,Arabic,Male,55+,1,3,4,Neutral,Security,security,Car,Yes
+1220,02-01-2026,Visitor,Arrival,South,Area 1,Website,English,Male,25-34,4,41,1,Neutral,Parking,car park,Car,Yes
+1221,29-04-2026,Retail Tenant,Exit,South,Area 2,App,Arabic,Male,25-34,5,74,4,Neutral,Security,safety,Metro,Yes
+1222,11-04-2026,Visitor,Exit,Central,Area 1,App,English,Male,35-44,4,-63,4,Neutral,Support,concierge,Metro,No
+1223,16-01-2026,Employee,Core Experience,West,Area 5,Website,Arabic,Male,35-44,1,3,4,Positive,Support,concierge,Car,Yes
+1224,30-06-2026,Resident,Services,Central,Area 2,App,Arabic,Female,35-44,3,80,2,Positive,Cleanliness,cleanliness,Metro,Yes
+1225,31-05-2026,Resident,Exit,West,Area 6,App,Arabic,Female,25-34,4,12,3,Positive,Facilities,restroom,Metro,No
+1226,29-06-2026,Retail Tenant,Services,South,Area 2,Call Center,Arabic,Female,55+,4,32,1,Neutral,Facilities,restroom,Car,Yes
+1227,21-02-2025,Employee,Services,Central,Area 1,App,English,Male,35-44,4,52,5,Positive,Cleanliness,cleanliness,Car,No
+1228,24-01-2026,Employee,Services,Central,Area 3,Website,English,Female,45-54,5,51,1,Neutral,Facilities,shade,Car,No
+1229,22-03-2026,Visitor,Services,Central,Area 6,Call Center,Arabic,Female,25-34,3,29,3,Negative,Parking,parking,Car,No
+1230,05-05-2026,Resident,Core Experience,North,Area 2,Call Center,English,Female,45-54,3,10,2,Positive,Security,safety,Car,No
+1231,13-01-2026,Retail Tenant,Exit,North,Area 2,Call Center,English,Male,18-24,5,68,1,Neutral,Wayfinding,navigation,Metro,Yes
+1232,15-06-2026,Visitor,Arrival,Central,Area 3,App,Arabic,Male,25-34,5,100,2,Neutral,Support,helpdesk,Metro,Yes
+1233,12-01-2026,Retail Tenant,Exit,West,Area 1,App,English,Male,18-24,3,94,3,Negative,Wayfinding,signage,Car,No
+1234,23-01-2026,Visitor,Awareness,West,Area 2,Website,English,Male,55+,2,14,2,Positive,Digital,wifi,Metro,Yes
+1235,04-01-2026,Visitor,Core Experience,West,Area 2,Call Center,English,Female,55+,2,26,3,Positive,Security,safety,Car,No
+1236,12-06-2026,Resident,Awareness,West,Area 2,Call Center,Arabic,Male,55+,2,20,5,Positive,Digital,app,Metro,Yes
+1237,21-02-2025,Visitor,Services,West,Area 2,Call Center,Arabic,Male,18-24,1,99,2,Neutral,Security,safety,Metro,No
+1238,21-06-2026,Resident,Exit,Central,Area 7,Call Center,Arabic,Female,45-54,4,97,4,Neutral,Cleanliness,maintenance,Car,Yes
+1239,23-03-2026,Resident,Arrival,North,Area 1,Call Center,English,Male,55+,5,58,5,Positive,Cleanliness,cleanliness,Car,Yes
+1240,01-04-2026,Visitor,Core Experience,Central,Area 2,Call Center,English,Male,25-34,5,42,5,Positive,Wayfinding,signage,Metro,No
+1241,21-02-2025,Visitor,Awareness,South,Area 7,Survey,Arabic,Male,45-54,3,57,2,Neutral,Support,concierge,Metro,No
+1242,31-01-2026,Visitor,Arrival,Central,Area 1,Website,English,Female,35-44,1,57,4,Neutral,Wayfinding,navigation,Metro,Yes
+1243,17-03-2026,Office Worker,Arrival,East,Area 2,App,Arabic,Male,45-54,3,76,3,Neutral,Security,safety,Car,No
+1244,21-02-2025,Office Worker,Core Experience,South,Area 2,Website,Arabic,Male,45-54,1,65,3,Positive,Wayfinding,navigation,Metro,No
+1245,17-04-2026,Resident,Services,Central,Area 3,App,Arabic,Female,45-54,1,60,3,Positive,Wayfinding,signage,Car,No
+1246,24-01-2026,Visitor,Services,Central,Area 1,App,English,Male,45-54,4,8,1,Neutral,Wayfinding,signage,Car,No
+1247,11-01-2026,Employee,Arrival,South,Area 6,App,Arabic,Female,18-24,3,10,3,Neutral,Wayfinding,navigation,Car,No
+1248,21-02-2025,Employee,Awareness,West,Area 2,Call Center,Arabic,Female,35-44,1,-24,5,Neutral,Cleanliness,maintenance,Metro,No
+1249,09-06-2026,Resident,Services,South,Area 2,Survey,Arabic,Female,18-24,5,60,4,Neutral,Cleanliness,maintenance,Car,No
+1250,30-01-2026,Office Worker,Exit,Central,Area 2,Survey,Arabic,Male,25-34,5,95,5,Neutral,Wayfinding,navigation,Car,Yes
+1251,17-04-2026,Resident,Services,South,Area 1,App,English,Male,18-24,1,74,4,Neutral,Parking,parking,Metro,No
+1252,29-05-2026,Employee,Awareness,East,Area 2,App,Arabic,Female,45-54,2,78,3,Neutral,Wayfinding,signage,Metro,No
+1253,24-01-2026,Retail Tenant,Services,Central,Area 4,App,Arabic,Female,45-54,4,20,5,Neutral,Support,helpdesk,Car,No
+1254,09-01-2026,Resident,Services,East,Area 2,Call Center,English,Male,25-34,1,14,4,Positive,Digital,app,Metro,Yes
+1255,02-03-2026,Visitor,Arrival,South,Area 2,App,English,Female,18-24,3,65,1,Positive,Security,safety,Car,Yes
+1256,27-03-2026,Visitor,Services,East,Area 3,Survey,Arabic,Female,25-34,2,32,1,Neutral,Wayfinding,navigation,Metro,No
+1257,28-01-2026,Resident,Exit,Central,Area 2,App,Arabic,Male,45-54,4,68,4,Positive,Support,helpdesk,Metro,No
+1258,08-05-2026,Retail Tenant,Arrival,Central,Area 1,Call Center,Arabic,Male,25-34,5,21,5,Negative,Parking,car park,Metro,No
+1259,03-06-2026,Retail Tenant,Awareness,South,Area 1,Call Center,English,Male,45-54,3,37,3,Neutral,Cleanliness,cleanliness,Car,Yes
+1260,05-03-2026,Retail Tenant,Arrival,West,Area 5,Survey,Arabic,Female,25-34,4,100,4,Negative,Cleanliness,cleanliness,Car,Yes
+1261,12-05-2026,Retail Tenant,Arrival,South,Area 1,Website,English,Female,35-44,3,7,5,Neutral,Digital,app,Car,No
+1262,07-06-2026,Visitor,Exit,South,Area 2,App,English,Female,25-34,3,43,1,Neutral,Support,concierge,Metro,No
+1263,25-03-2026,Resident,Awareness,Central,Area 1,Call Center,English,Male,18-24,1,87,5,Neutral,Parking,car park,Metro,No
+1264,11-01-2026,Retail Tenant,Awareness,North,Area 7,Call Center,Arabic,Male,45-54,4,33,3,Neutral,Cleanliness,cleanliness,Metro,Yes
+1265,21-02-2025,Resident,Arrival,South,Area 2,Website,English,Male,18-24,5,-58,2,Neutral,Parking,parking,Car,No
+1266,01-05-2026,Visitor,Awareness,West,Area 5,Survey,Arabic,Female,35-44,1,85,5,Neutral,Support,concierge,Metro,No
+1267,22-04-2026,Visitor,Awareness,North,Area 5,Call Center,Arabic,Female,55+,2,40,3,Neutral,Support,concierge,Car,Yes
+1268,02-04-2026,Retail Tenant,Services,South,Area 2,App,English,Female,25-34,4,77,2,Neutral,Support,helpdesk,Metro,Yes
+1269,27-05-2026,Employee,Exit,North,Area 2,App,Arabic,Female,18-24,1,72,3,Neutral,Facilities,restroom,Car,Yes
+1270,21-02-2025,Office Worker,Core Experience,East,Area 5,Website,English,Male,25-34,4,17,3,Positive,Support,concierge,Metro,Yes
+1271,27-01-2026,Office Worker,Awareness,Central,Area 1,App,English,Female,35-44,5,83,1,Neutral,Cleanliness,cleanliness,Car,No
+1272,26-04-2026,Retail Tenant,Exit,East,Area 6,Website,English,Female,55+,4,47,5,Neutral,Wayfinding,navigation,Car,Yes
+1273,21-02-2025,Visitor,Awareness,North,Area 5,Website,Arabic,Female,55+,1,40,3,Positive,Cleanliness,maintenance,Car,Yes
+1274,01-01-2026,Office Worker,Awareness,North,Area 2,Website,Arabic,Male,55+,2,44,2,Neutral,Security,safety,Metro,No
+1275,10-05-2026,Office Worker,Core Experience,West,Area 1,Survey,Arabic,Male,35-44,4,29,2,Positive,Parking,car park,Car,Yes
+1276,23-04-2026,Office Worker,Awareness,East,Area 7,Call Center,English,Male,55+,2,10,2,Neutral,Wayfinding,navigation,Metro,No
+1277,26-01-2026,Visitor,Awareness,West,Area 2,App,English,Male,45-54,3,65,1,Neutral,Cleanliness,cleanliness,Metro,Yes
+1278,14-01-2026,Retail Tenant,Awareness,East,Area 2,Survey,English,Female,55+,5,5,5,Negative,Parking,car park,Metro,Yes
+1279,15-04-2026,Office Worker,Exit,Central,Area 2,App,Arabic,Female,25-34,3,17,5,Positive,Digital,wifi,Metro,Yes
+1280,29-04-2026,Visitor,Arrival,East,Area 6,Website,English,Female,25-34,5,20,4,Neutral,Support,helpdesk,Car,No
+1281,27-04-2026,Employee,Exit,Central,Area 2,Website,English,Female,55+,2,89,2,Positive,Support,concierge,Car,Yes
+1282,14-01-2026,Office Worker,Awareness,South,Area 1,Website,Arabic,Male,25-34,5,93,2,Positive,Cleanliness,maintenance,Metro,No
+1283,21-02-2025,Employee,Exit,North,Area 4,Call Center,English,Female,55+,4,53,1,Positive,Wayfinding,signage,Car,Yes
+1284,21-02-2025,Resident,Services,North,Area 3,Call Center,English,Male,45-54,3,57,2,Positive,Digital,app,Metro,Yes
+1285,21-03-2026,Visitor,Awareness,North,Area 1,Call Center,English,Female,25-34,5,97,3,Neutral,Security,security,Metro,No
+1286,30-06-2026,Visitor,Services,West,Area 2,Call Center,Arabic,Male,18-24,4,69,2,Positive,Cleanliness,cleanliness,Car,Yes
+1287,25-01-2026,Office Worker,Exit,Central,Area 5,Call Center,Arabic,Male,18-24,2,61,3,Neutral,Digital,app,Metro,No
+1288,23-03-2026,Retail Tenant,Core Experience,North,Area 2,App,Arabic,Female,45-54,2,87,3,Neutral,Parking,car park,Car,No
+1289,13-04-2026,Employee,Arrival,West,Area 2,Survey,Arabic,Female,18-24,5,60,4,Neutral,Facilities,shade,Metro,No
+1290,12-01-2026,Visitor,Services,North,Area 2,App,Arabic,Female,25-34,3,65,4,Neutral,Security,security,Car,Yes
+1291,21-02-2025,Resident,Core Experience,North,Area 6,App,Arabic,Male,55+,5,-80,4,Positive,Facilities,shade,Metro,Yes
+1292,26-06-2026,Employee,Services,East,Area 1,Website,English,Female,25-34,2,18,5,Neutral,Parking,parking,Metro,No
+1293,21-02-2025,Retail Tenant,Arrival,East,Area 7,App,English,Female,18-24,3,83,1,Neutral,Digital,app,Car,No
+1294,21-05-2026,Employee,Exit,East,Area 3,App,Arabic,Male,55+,4,-30,3,Positive,Security,security,Metro,No
+1295,05-06-2026,Employee,Exit,North,Area 2,Call Center,Arabic,Female,45-54,1,16,5,Neutral,Facilities,restroom,Metro,No
+1296,21-04-2026,Employee,Awareness,North,Area 1,App,Arabic,Male,25-34,3,98,1,Neutral,Wayfinding,signage,Car,Yes
+1297,21-02-2025,Resident,Arrival,North,Area 3,Website,Arabic,Female,35-44,2,58,3,Neutral,Parking,car park,Car,No
+1298,19-05-2026,Resident,Core Experience,West,Area 2,App,Arabic,Female,18-24,5,56,2,Positive,Cleanliness,maintenance,Car,Yes
+1299,25-05-2026,Resident,Arrival,West,Area 4,Survey,Arabic,Male,25-34,1,-43,2,Positive,Facilities,shade,Metro,No
+1300,21-02-2025,Office Worker,Core Experience,West,Area 1,App,English,Female,25-34,3,-47,1,Positive,Wayfinding,signage,Metro,No
+1301,04-04-2026,Employee,Services,East,Area 2,Website,English,Female,45-54,1,65,4,Neutral,Parking,car park,Metro,Yes
+1302,17-03-2026,Office Worker,Services,West,Area 5,Survey,Arabic,Female,45-54,3,50,2,Negative,Parking,parking,Metro,No
+1303,26-03-2026,Visitor,Exit,Central,Area 1,Call Center,English,Female,45-54,1,29,3,Neutral,Security,safety,Car,Yes
+1304,29-03-2026,Employee,Arrival,East,Area 4,Call Center,Arabic,Male,35-44,1,13,3,Neutral,Cleanliness,cleanliness,Metro,No
+1305,15-05-2026,Resident,Exit,South,Area 7,Call Center,Arabic,Male,35-44,3,18,2,Neutral,Cleanliness,maintenance,Car,No
+1306,12-06-2026,Office Worker,Exit,West,Area 2,Call Center,English,Male,55+,1,61,3,Neutral,Digital,app,Car,No
+1307,15-03-2026,Office Worker,Core Experience,West,Area 1,App,English,Male,35-44,2,58,4,Positive,Cleanliness,maintenance,Metro,Yes
+1308,01-03-2026,Retail Tenant,Awareness,East,Area 2,Survey,English,Male,18-24,5,11,1,Negative,Security,security,Car,No
+1309,11-01-2026,Office Worker,Core Experience,South,Area 7,Survey,English,Female,45-54,1,28,3,Positive,Cleanliness,cleanliness,Metro,Yes
+1310,05-05-2026,Retail Tenant,Exit,Central,Area 3,Call Center,Arabic,Female,45-54,2,94,5,Neutral,Parking,car park,Metro,No
+1311,12-05-2026,Retail Tenant,Exit,South,Area 6,App,English,Male,35-44,5,55,5,Negative,Wayfinding,navigation,Car,Yes
+1312,28-06-2026,Visitor,Awareness,East,Area 1,Survey,English,Male,18-24,1,31,3,Neutral,Support,concierge,Metro,Yes
+1313,16-04-2026,Resident,Exit,Central,Area 2,Survey,Arabic,Male,35-44,3,7,1,Positive,Wayfinding,navigation,Metro,No
+1314,19-06-2026,Office Worker,Core Experience,North,Area 2,Website,Arabic,Female,55+,2,82,4,Positive,Cleanliness,cleanliness,Metro,Yes
+1315,03-03-2026,Resident,Exit,South,Area 1,Website,Arabic,Female,25-34,5,9,4,Neutral,Parking,car park,Car,No
+1316,17-03-2026,Office Worker,Awareness,West,Area 7,Website,English,Female,25-34,1,77,4,Neutral,Cleanliness,cleanliness,Metro,Yes
+1317,13-01-2026,Resident,Exit,West,Area 2,Survey,English,Male,45-54,5,81,1,Neutral,Security,safety,Metro,No
+1318,07-01-2026,Office Worker,Services,South,Area 7,Website,English,Female,18-24,5,31,5,Positive,Digital,wifi,Metro,No
+1319,08-03-2026,Resident,Arrival,West,Area 2,Survey,English,Male,25-34,2,55,3,Positive,Cleanliness,maintenance,Car,Yes
+1320,14-05-2026,Resident,Exit,South,Area 2,Survey,English,Male,45-54,1,46,5,Positive,Facilities,shade,Metro,No
+1321,12-05-2026,Visitor,Services,North,Area 2,App,English,Female,45-54,2,54,5,Neutral,Wayfinding,signage,Metro,No
+1322,01-06-2026,Visitor,Services,Central,Area 2,Website,Arabic,Female,25-34,2,68,1,Neutral,Cleanliness,maintenance,Metro,No
+1323,01-01-2026,Resident,Core Experience,Central,Area 2,Call Center,English,Female,25-34,3,68,1,Positive,Security,safety,Car,Yes
+1324,17-01-2026,Employee,Arrival,South,Area 2,Survey,English,Male,25-34,5,65,5,Neutral,Cleanliness,cleanliness,Car,Yes
+1325,21-02-2025,Resident,Awareness,North,Area 2,App,English,Female,45-54,5,50,1,Neutral,Security,safety,Car,Yes
+1326,17-05-2026,Retail Tenant,Services,North,Area 2,Call Center,Arabic,Male,35-44,4,82,1,Neutral,Security,security,Metro,Yes
+1327,24-04-2026,Office Worker,Core Experience,East,Area 2,Website,English,Male,45-54,4,33,3,Positive,Support,helpdesk,Metro,No
+1328,22-06-2026,Retail Tenant,Awareness,West,Area 2,Survey,English,Female,25-34,1,9,3,Negative,Security,security,Metro,Yes
+1329,01-03-2026,Office Worker,Exit,East,Area 4,Survey,English,Male,18-24,3,94,2,Neutral,Support,helpdesk,Metro,Yes
+1330,16-06-2026,Resident,Core Experience,South,Area 5,Survey,English,Female,18-24,1,95,5,Positive,Security,safety,Car,No
+1331,20-05-2026,Employee,Core Experience,Central,Area 1,Call Center,Arabic,Male,55+,3,6,2,Positive,Digital,wifi,Metro,Yes
+1332,06-03-2026,Retail Tenant,Exit,South,Area 1,Call Center,English,Female,25-34,3,44,5,Neutral,Facilities,shade,Car,No
+1333,26-04-2026,Employee,Awareness,West,Area 1,Website,Arabic,Male,35-44,2,90,4,Neutral,Security,safety,Car,Yes
+1334,23-01-2026,Office Worker,Core Experience,East,Area 1,Website,English,Male,25-34,4,18,2,Positive,Support,concierge,Car,No
+1335,29-06-2026,Visitor,Arrival,West,Area 2,Call Center,Arabic,Female,18-24,1,-96,4,Neutral,Facilities,shade,Car,No
+1336,13-04-2026,Visitor,Services,Central,Area 5,Call Center,Arabic,Female,25-34,3,6,2,Neutral,Digital,wifi,Metro,Yes
+1337,05-06-2026,Office Worker,Exit,Central,Area 7,Website,Arabic,Male,55+,2,-60,1,Neutral,Cleanliness,cleanliness,Metro,No
+1338,04-03-2026,Employee,Core Experience,North,Area 2,Call Center,English,Female,55+,3,51,5,Positive,Wayfinding,signage,Car,No
+1339,21-02-2025,Visitor,Services,South,Area 1,Call Center,English,Male,25-34,5,33,4,Neutral,Parking,parking,Car,No
+1340,16-01-2026,Visitor,Exit,South,Area 2,Call Center,Arabic,Male,25-34,1,37,2,Neutral,Digital,wifi,Car,No
+1341,26-05-2026,Employee,Awareness,Central,Area 2,Survey,English,Female,45-54,3,84,1,Neutral,Support,helpdesk,Metro,No
+1342,25-01-2026,Employee,Exit,South,Area 2,App,English,Female,55+,3,16,3,Neutral,Facilities,shade,Metro,No
+1343,15-03-2026,Employee,Services,South,Area 2,Call Center,Arabic,Female,25-34,3,52,4,Positive,Support,helpdesk,Car,Yes
+1344,04-01-2026,Resident,Core Experience,Central,Area 2,App,English,Male,25-34,4,44,4,Positive,Support,helpdesk,Metro,No
+1345,11-05-2026,Retail Tenant,Arrival,Central,Area 4,Website,Arabic,Male,18-24,2,89,4,Neutral,Digital,wifi,Metro,No
+1346,10-01-2026,Retail Tenant,Services,Central,Area 2,Survey,Arabic,Female,45-54,4,67,3,Negative,Support,helpdesk,Metro,No
+1347,21-02-2025,Visitor,Arrival,South,Area 3,Survey,Arabic,Female,55+,3,94,1,Positive,Digital,wifi,Car,Yes
+1348,08-04-2026,Resident,Services,Central,Area 2,App,English,Male,45-54,4,56,1,Neutral,Parking,car park,Metro,Yes
+1349,30-05-2026,Office Worker,Arrival,East,Area 2,App,Arabic,Female,55+,5,70,2,Neutral,Support,concierge,Metro,Yes
+1350,21-02-2025,Employee,Services,South,Area 6,Call Center,Arabic,Female,18-24,3,14,3,Neutral,Digital,wifi,Car,No
+1351,01-06-2026,Office Worker,Awareness,West,Area 4,App,Arabic,Male,45-54,1,-16,3,Positive,Facilities,shade,Car,Yes
+1352,03-04-2026,Visitor,Arrival,North,Area 1,Survey,English,Male,25-34,3,58,3,Neutral,Security,safety,Car,No
+1353,21-06-2026,Retail Tenant,Services,West,Area 2,App,Arabic,Female,35-44,5,22,4,Neutral,Digital,wifi,Car,No
+1354,16-06-2026,Visitor,Services,North,Area 2,Survey,Arabic,Female,18-24,4,58,3,Neutral,Wayfinding,navigation,Car,No
+1355,17-05-2026,Resident,Core Experience,North,Area 1,Call Center,Arabic,Male,55+,1,-22,3,Positive,Parking,car park,Car,No
+1356,22-01-2026,Employee,Core Experience,West,Area 1,Survey,Arabic,Male,55+,4,82,3,Neutral,Parking,parking,Metro,Yes
+1357,24-01-2026,Office Worker,Arrival,West,Area 2,Call Center,Arabic,Male,18-24,1,86,1,Neutral,Facilities,shade,Metro,No
+1358,28-04-2026,Office Worker,Core Experience,South,Area 6,Survey,Arabic,Female,45-54,4,66,3,Positive,Support,concierge,Car,Yes
+1359,21-02-2025,Visitor,Exit,South,Area 2,Website,Arabic,Male,18-24,2,19,1,Positive,Wayfinding,navigation,Metro,Yes
+1360,07-06-2026,Office Worker,Core Experience,West,Area 4,Call Center,Arabic,Male,45-54,5,5,4,Positive,Facilities,shade,Metro,Yes
+1361,10-04-2026,Office Worker,Core Experience,North,Area 2,Call Center,Arabic,Male,18-24,2,31,1,Positive,Security,security,Metro,Yes
+1362,08-03-2026,Employee,Core Experience,South,Area 5,Call Center,English,Male,45-54,3,50,3,Positive,Digital,wifi,Metro,No
+1363,01-06-2026,Retail Tenant,Services,Central,Area 2,Survey,English,Male,25-34,5,78,1,Neutral,Support,helpdesk,Metro,Yes
+1364,21-02-2025,Visitor,Arrival,South,Area 1,App,Arabic,Male,25-34,2,48,4,Positive,Digital,app,Metro,Yes
+1365,21-05-2026,Retail Tenant,Awareness,East,Area 2,Website,Arabic,Male,18-24,3,-3,4,Negative,Parking,parking,Metro,No
+1366,19-06-2026,Employee,Core Experience,North,Area 1,Call Center,Arabic,Male,25-34,1,-83,5,Positive,Cleanliness,cleanliness,Metro,No
+1367,28-03-2026,Employee,Core Experience,South,Area 2,Website,Arabic,Female,55+,5,51,3,Positive,Wayfinding,navigation,Car,No
+1368,25-06-2026,Office Worker,Services,West,Area 1,Website,English,Female,35-44,3,32,3,Neutral,Wayfinding,navigation,Car,No
+1369,05-05-2026,Retail Tenant,Core Experience,South,Area 1,Survey,Arabic,Male,18-24,1,95,1,Positive,Security,security,Metro,No
+1370,21-02-2025,Retail Tenant,Awareness,North,Area 2,Website,Arabic,Male,35-44,2,-34,4,Negative,Security,safety,Metro,No
+1371,18-05-2026,Employee,Arrival,South,Area 1,Survey,English,Female,35-44,4,16,5,Neutral,Security,safety,Car,Yes
+1372,02-04-2026,Visitor,Core Experience,West,Area 2,Call Center,English,Female,25-34,3,91,3,Positive,Digital,app,Metro,Yes
+1373,05-04-2026,Visitor,Arrival,West,Area 2,Call Center,Arabic,Male,18-24,4,79,2,Neutral,Facilities,restroom,Car,No
+1374,13-05-2026,Employee,Exit,East,Area 1,Website,English,Male,45-54,3,26,4,Positive,Digital,app,Metro,No
+1375,20-03-2026,Employee,Core Experience,East,Area 2,Call Center,Arabic,Female,55+,1,10,2,Positive,Wayfinding,navigation,Metro,No
+1376,15-01-2026,Retail Tenant,Awareness,Central,Area 1,Survey,Arabic,Male,35-44,4,92,2,Negative,Wayfinding,navigation,Car,Yes
+1377,23-03-2026,Resident,Arrival,South,Area 2,Website,Arabic,Female,18-24,4,88,1,Neutral,Cleanliness,maintenance,Car,Yes
+1378,21-02-2025,Resident,Arrival,North,Area 7,Website,English,Female,55+,3,91,3,Positive,Support,concierge,Metro,No
+1379,21-02-2025,Resident,Exit,South,Area 1,Call Center,English,Male,25-34,1,70,5,Neutral,Support,concierge,Car,Yes
+1380,06-01-2026,Visitor,Exit,North,Area 2,App,Arabic,Female,55+,3,21,3,Neutral,Security,safety,Metro,Yes
+1381,22-05-2026,Employee,Awareness,Central,Area 2,Survey,Arabic,Male,35-44,2,66,3,Neutral,Cleanliness,cleanliness,Metro,No
+1382,03-01-2026,Employee,Awareness,West,Area 6,App,English,Female,18-24,2,26,1,Neutral,Support,helpdesk,Metro,Yes
+1383,15-04-2026,Visitor,Arrival,Central,Area 2,Survey,English,Female,45-54,2,64,2,Neutral,Cleanliness,cleanliness,Car,Yes
+1384,21-02-2025,Resident,Exit,West,Area 6,Website,English,Female,35-44,1,71,3,Positive,Wayfinding,navigation,Metro,No
+1385,11-06-2026,Employee,Exit,West,Area 2,Survey,Arabic,Female,55+,5,60,3,Neutral,Security,safety,Car,Yes
+1386,19-06-2026,Resident,Services,East,Area 4,App,Arabic,Male,45-54,5,79,2,Positive,Cleanliness,cleanliness,Car,No
+1387,21-02-2025,Employee,Arrival,East,Area 2,Website,Arabic,Male,45-54,1,-61,1,Positive,Cleanliness,cleanliness,Metro,Yes
+1388,14-01-2026,Retail Tenant,Services,North,Area 5,App,Arabic,Male,35-44,4,68,4,Neutral,Parking,parking,Car,No
+1389,30-03-2026,Office Worker,Core Experience,Central,Area 2,Survey,English,Female,45-54,4,74,4,Positive,Support,concierge,Metro,No
+1390,28-04-2026,Office Worker,Awareness,Central,Area 2,App,Arabic,Female,18-24,1,41,2,Neutral,Security,security,Car,Yes
+1391,18-05-2026,Employee,Core Experience,East,Area 2,Website,Arabic,Male,45-54,1,60,4,Positive,Security,security,Car,No
+1392,21-02-2025,Employee,Services,East,Area 7,Call Center,Arabic,Female,25-34,5,17,3,Negative,Parking,car park,Metro,Yes
+1393,16-05-2026,Visitor,Core Experience,South,Area 2,Website,English,Male,25-34,5,24,5,Positive,Wayfinding,navigation,Car,No
+1394,21-02-2025,Employee,Exit,South,Area 2,Website,Arabic,Female,18-24,2,65,4,Positive,Cleanliness,maintenance,Metro,Yes
+1395,21-02-2025,Office Worker,Core Experience,South,Area 3,Website,English,Female,55+,1,67,1,Positive,Facilities,shade,Metro,Yes
+1396,20-01-2026,Visitor,Services,East,Area 2,Call Center,Arabic,Female,35-44,2,22,3,Neutral,Wayfinding,navigation,Car,No
+1397,29-04-2026,Retail Tenant,Arrival,Central,Area 3,Website,Arabic,Male,25-34,2,91,3,Negative,Cleanliness,cleanliness,Car,Yes
+1398,03-04-2026,Resident,Awareness,East,Area 6,Website,English,Female,18-24,2,67,3,Neutral,Cleanliness,maintenance,Metro,Yes
+1399,07-06-2026,Employee,Services,East,Area 2,App,English,Female,55+,3,-68,1,Neutral,Wayfinding,signage,Metro,Yes
+1400,23-05-2026,Visitor,Services,South,Area 6,Call Center,Arabic,Female,55+,2,36,5,Positive,Cleanliness,cleanliness,Car,No
+1401,11-06-2026,Employee,Awareness,South,Area 7,Call Center,Arabic,Male,55+,2,79,3,Neutral,Digital,wifi,Car,Yes
+1402,25-01-2026,Resident,Exit,West,Area 1,App,English,Male,55+,5,65,1,Positive,Support,helpdesk,Metro,No
+1403,12-03-2026,Resident,Services,South,Area 2,Website,Arabic,Female,18-24,2,75,5,Neutral,Cleanliness,maintenance,Car,No
+1404,21-02-2025,Employee,Arrival,East,Area 2,App,English,Male,35-44,2,85,2,Neutral,Security,security,Metro,No
+1405,13-03-2026,Employee,Awareness,East,Area 2,Call Center,English,Female,18-24,5,44,5,Neutral,Facilities,shade,Metro,Yes
+1406,25-01-2026,Visitor,Core Experience,South,Area 7,Survey,Arabic,Male,18-24,5,4,1,Positive,Wayfinding,signage,Car,No
+1407,12-06-2026,Visitor,Services,South,Area 5,App,English,Female,45-54,1,83,1,Neutral,Facilities,shade,Metro,Yes
+1408,12-01-2026,Employee,Exit,Central,Area 3,App,Arabic,Male,55+,5,84,3,Neutral,Cleanliness,cleanliness,Metro,No
+1409,09-03-2026,Office Worker,Services,West,Area 2,Website,English,Male,45-54,2,54,5,Neutral,Wayfinding,signage,Metro,No
+1410,21-02-2025,Retail Tenant,Awareness,South,Area 2,App,Arabic,Male,55+,5,64,1,Neutral,Support,concierge,Metro,No
+1411,27-04-2026,Office Worker,Services,Central,Area 1,Call Center,English,Female,35-44,5,83,3,Neutral,Cleanliness,maintenance,Car,Yes
+1412,25-03-2026,Visitor,Arrival,West,Area 4,Website,Arabic,Male,35-44,3,32,4,Neutral,Cleanliness,maintenance,Metro,No
+1413,01-04-2026,Retail Tenant,Arrival,West,Area 2,Website,Arabic,Male,18-24,4,59,3,Negative,Parking,parking,Metro,No
+1414,01-03-2026,Employee,Exit,North,Area 4,App,Arabic,Male,18-24,1,21,1,Positive,Facilities,restroom,Car,Yes
+1415,15-05-2026,Office Worker,Arrival,Central,Area 2,Call Center,English,Female,25-34,4,-39,4,Neutral,Facilities,shade,Car,No
+1416,18-01-2026,Resident,Arrival,West,Area 7,Call Center,Arabic,Female,55+,4,44,2,Positive,Cleanliness,maintenance,Car,Yes
+1417,05-01-2026,Office Worker,Exit,South,Area 2,App,Arabic,Female,35-44,5,41,2,Positive,Security,safety,Metro,Yes
+1418,21-02-2025,Office Worker,Services,West,Area 2,Website,Arabic,Male,45-54,3,52,3,Neutral,Support,concierge,Car,No
+1419,24-04-2026,Retail Tenant,Core Experience,South,Area 1,Survey,English,Male,18-24,2,-35,3,Positive,Support,helpdesk,Metro,No
+1420,10-06-2026,Visitor,Core Experience,South,Area 2,Call Center,English,Male,55+,5,41,1,Positive,Facilities,shade,Car,No
+1421,21-02-2025,Resident,Exit,South,Area 3,Call Center,English,Female,45-54,2,16,4,Neutral,Parking,parking,Car,No
+1422,21-02-2025,Visitor,Services,East,Area 1,App,Arabic,Male,55+,3,32,4,Neutral,Support,helpdesk,Car,No
+1423,30-01-2026,Office Worker,Core Experience,West,Area 2,Website,English,Male,55+,2,7,1,Positive,Wayfinding,signage,Car,Yes
+1424,04-03-2026,Office Worker,Core Experience,East,Area 1,Survey,Arabic,Female,55+,3,79,4,Positive,Cleanliness,cleanliness,Car,Yes
+1425,31-03-2026,Retail Tenant,Core Experience,West,Area 4,App,English,Male,18-24,4,-80,2,Positive,Wayfinding,navigation,Car,Yes
+1426,21-02-2025,Resident,Exit,South,Area 2,Survey,English,Male,18-24,3,93,5,Neutral,Parking,car park,Car,Yes
+1427,21-06-2026,Office Worker,Core Experience,South,Area 2,Call Center,Arabic,Female,25-34,3,-3,2,Positive,Security,security,Car,No
+1428,18-04-2026,Office Worker,Arrival,Central,Area 2,Call Center,Arabic,Male,18-24,2,66,4,Neutral,Cleanliness,cleanliness,Car,No
+1429,26-04-2026,Retail Tenant,Awareness,Central,Area 2,Website,English,Female,55+,4,-61,4,Neutral,Facilities,restroom,Metro,No
+1430,18-04-2026,Retail Tenant,Core Experience,East,Area 1,Survey,English,Male,35-44,4,12,1,Neutral,Wayfinding,signage,Car,Yes
+1431,24-06-2026,Office Worker,Awareness,North,Area 2,Website,English,Female,55+,4,59,5,Neutral,Wayfinding,navigation,Metro,No
+1432,22-01-2026,Visitor,Services,South,Area 2,App,Arabic,Female,55+,2,75,2,Neutral,Support,concierge,Metro,No
+1433,21-02-2025,Resident,Core Experience,North,Area 7,Survey,English,Female,45-54,3,7,1,Positive,Security,safety,Car,Yes
+1434,30-03-2026,Office Worker,Arrival,North,Area 1,Website,Arabic,Male,25-34,3,77,4,Positive,Support,helpdesk,Metro,Yes
+1435,30-03-2026,Retail Tenant,Exit,West,Area 2,App,Arabic,Female,45-54,4,69,3,Negative,Parking,car park,Metro,Yes
+1436,21-02-2025,Employee,Exit,North,Area 3,Survey,Arabic,Female,35-44,1,56,1,Neutral,Cleanliness,maintenance,Car,Yes
+1437,24-04-2026,Resident,Exit,North,Area 2,Survey,English,Female,55+,2,94,3,Neutral,Digital,wifi,Metro,No
+1438,13-01-2026,Retail Tenant,Arrival,South,Area 1,Call Center,English,Female,18-24,3,47,4,Neutral,Facilities,shade,Metro,No
+1439,20-06-2026,Visitor,Arrival,North,Area 1,Website,Arabic,Male,25-34,1,7,4,Neutral,Wayfinding,navigation,Metro,Yes
+1440,30-04-2026,Employee,Exit,South,Area 2,App,Arabic,Female,35-44,5,25,5,Neutral,Support,concierge,Metro,Yes
+1441,02-01-2026,Visitor,Arrival,North,Area 3,App,Arabic,Female,45-54,3,37,5,Neutral,Parking,parking,Car,Yes
+1442,30-04-2026,Retail Tenant,Services,South,Area 2,Call Center,Arabic,Male,45-54,1,65,4,Negative,Wayfinding,signage,Car,No
+1443,22-01-2026,Employee,Core Experience,North,Area 5,Website,English,Male,25-34,4,36,5,Positive,Digital,app,Metro,No
+1444,30-01-2026,Visitor,Core Experience,West,Area 1,Survey,Arabic,Male,55+,5,16,5,Positive,Wayfinding,signage,Metro,Yes
+1445,19-04-2026,Resident,Arrival,West,Area 2,App,English,Male,25-34,2,51,1,Neutral,Facilities,restroom,Metro,Yes
+1446,14-01-2026,Visitor,Core Experience,North,Area 6,Call Center,Arabic,Female,45-54,3,72,3,Positive,Cleanliness,maintenance,Metro,No
+1447,04-03-2026,Employee,Exit,South,Area 1,App,Arabic,Female,35-44,3,26,2,Neutral,Parking,parking,Car,Yes
+1448,12-05-2026,Resident,Exit,North,Area 2,App,English,Male,55+,5,52,5,Positive,Wayfinding,signage,Metro,Yes
+1449,21-02-2025,Resident,Exit,North,Area 2,Website,English,Male,18-24,5,6,1,Neutral,Cleanliness,cleanliness,Metro,No
+1450,05-05-2026,Employee,Awareness,North,Area 6,App,English,Female,55+,1,92,2,Positive,Security,safety,Metro,No
+1451,06-06-2026,Retail Tenant,Services,West,Area 1,App,English,Female,18-24,3,-34,4,Neutral,Cleanliness,cleanliness,Car,Yes
+1452,27-03-2026,Resident,Exit,West,Area 2,App,English,Female,35-44,4,78,2,Positive,Security,security,Car,No
+1453,02-01-2026,Resident,Exit,West,Area 3,Website,Arabic,Female,25-34,5,42,2,Positive,Cleanliness,cleanliness,Car,No
+1454,04-06-2026,Retail Tenant,Services,East,Area 4,Survey,Arabic,Female,25-34,5,21,3,Negative,Support,helpdesk,Metro,No
+1455,29-04-2026,Employee,Exit,North,Area 2,Survey,English,Male,55+,4,95,5,Neutral,Facilities,restroom,Metro,Yes
+1456,06-01-2026,Visitor,Services,East,Area 6,Survey,Arabic,Male,35-44,3,44,5,Positive,Wayfinding,signage,Car,No
+1457,16-04-2026,Visitor,Arrival,North,Area 6,Website,Arabic,Male,18-24,5,69,5,Neutral,Digital,wifi,Car,No
+1458,25-03-2026,Office Worker,Awareness,South,Area 6,Survey,English,Female,35-44,4,39,5,Neutral,Parking,parking,Metro,Yes
+1459,09-03-2026,Office Worker,Arrival,North,Area 4,Call Center,English,Male,55+,4,48,1,Positive,Facilities,restroom,Car,No
+1460,09-04-2026,Employee,Awareness,North,Area 4,App,English,Male,55+,3,54,1,Neutral,Support,concierge,Car,No
+1461,17-04-2026,Resident,Awareness,South,Area 3,Call Center,English,Female,55+,5,93,3,Neutral,Parking,parking,Metro,Yes
+1462,04-01-2026,Employee,Services,South,Area 6,Survey,Arabic,Female,55+,1,61,5,Neutral,Security,security,Metro,Yes
+1463,21-02-2025,Visitor,Exit,South,Area 1,Survey,English,Female,55+,3,74,5,Neutral,Facilities,shade,Metro,Yes
+1464,09-06-2026,Visitor,Services,West,Area 6,Website,Arabic,Female,35-44,2,75,1,Neutral,Facilities,restroom,Metro,Yes
+1465,20-06-2026,Visitor,Services,West,Area 5,App,Arabic,Male,45-54,4,68,2,Neutral,Cleanliness,maintenance,Metro,No
+1466,13-01-2026,Visitor,Services,West,Area 3,Website,English,Male,25-34,5,19,4,Neutral,Digital,app,Metro,Yes
+1467,06-04-2026,Office Worker,Core Experience,North,Area 4,Call Center,Arabic,Male,18-24,2,-27,1,Positive,Support,helpdesk,Metro,No
+1468,06-06-2026,Visitor,Arrival,North,Area 6,Call Center,Arabic,Male,45-54,1,-98,2,Positive,Security,safety,Car,Yes
+1469,09-05-2026,Resident,Core Experience,East,Area 2,Website,Arabic,Male,45-54,4,54,3,Positive,Cleanliness,maintenance,Metro,Yes
+1470,24-06-2026,Resident,Exit,West,Area 1,Website,Arabic,Female,55+,2,89,4,Neutral,Wayfinding,signage,Car,No
+1471,16-04-2026,Visitor,Core Experience,Central,Area 3,Website,English,Male,45-54,2,65,4,Positive,Wayfinding,signage,Car,Yes
+1472,06-05-2026,Retail Tenant,Exit,West,Area 2,Survey,English,Male,25-34,5,95,4,Neutral,Support,concierge,Metro,Yes
+1473,21-02-2025,Visitor,Services,East,Area 5,App,English,Female,18-24,1,67,2,Neutral,Cleanliness,cleanliness,Metro,No
+1474,22-06-2026,Visitor,Awareness,West,Area 1,Survey,English,Male,18-24,2,42,5,Neutral,Cleanliness,maintenance,Metro,No
+1475,15-03-2026,Employee,Exit,West,Area 2,Survey,English,Female,55+,4,49,5,Neutral,Digital,wifi,Car,Yes
+1476,21-02-2025,Employee,Exit,North,Area 4,Call Center,English,Female,45-54,3,59,2,Neutral,Wayfinding,navigation,Metro,Yes
+1477,06-06-2026,Retail Tenant,Core Experience,Central,Area 6,Website,Arabic,Male,18-24,5,-31,3,Positive,Cleanliness,cleanliness,Car,Yes
+1478,25-05-2026,Office Worker,Core Experience,East,Area 2,Call Center,Arabic,Male,25-34,3,79,3,Positive,Security,security,Car,Yes
+1479,26-04-2026,Resident,Arrival,West,Area 2,Survey,Arabic,Female,18-24,4,32,2,Positive,Facilities,restroom,Metro,Yes
+1480,26-04-2026,Employee,Services,East,Area 1,Survey,English,Female,45-54,3,39,5,Positive,Security,safety,Metro,Yes
+1481,26-04-2026,Resident,Awareness,North,Area 2,App,Arabic,Female,25-34,2,99,3,Positive,Cleanliness,cleanliness,Metro,Yes
+1482,12-05-2026,Retail Tenant,Exit,West,Area 2,Call Center,English,Female,18-24,3,89,2,Negative,Parking,car park,Car,Yes
+1483,24-03-2026,Employee,Core Experience,North,Area 2,App,Arabic,Female,45-54,4,62,3,Positive,Support,helpdesk,Metro,Yes
+1484,20-05-2026,Office Worker,Services,North,Area 4,App,English,Male,35-44,3,-8,5,Neutral,Cleanliness,cleanliness,Car,No
+1485,13-06-2026,Office Worker,Arrival,Central,Area 2,Call Center,Arabic,Male,45-54,3,16,3,Neutral,Support,helpdesk,Car,Yes
+1486,09-06-2026,Visitor,Core Experience,East,Area 1,Website,Arabic,Male,55+,5,49,5,Positive,Facilities,shade,Car,No
+1487,28-06-2026,Visitor,Core Experience,East,Area 2,App,Arabic,Female,45-54,4,99,3,Positive,Parking,car park,Car,No
+1488,29-04-2026,Office Worker,Arrival,West,Area 2,Call Center,Arabic,Female,25-34,2,6,3,Negative,Parking,car park,Car,No
+1489,28-04-2026,Employee,Exit,North,Area 5,Call Center,Arabic,Female,45-54,3,45,1,Neutral,Wayfinding,signage,Car,No
+1490,23-04-2026,Visitor,Core Experience,East,Area 3,Website,English,Male,25-34,4,96,3,Neutral,Parking,car park,Car,No
+1491,24-01-2026,Office Worker,Services,East,Area 5,Website,English,Male,35-44,4,26,2,Neutral,Cleanliness,maintenance,Metro,Yes
+1492,21-05-2026,Employee,Arrival,Central,Area 2,App,Arabic,Female,25-34,5,72,3,Positive,Facilities,restroom,Car,No
+1493,02-04-2026,Employee,Awareness,Central,Area 2,Call Center,Arabic,Male,55+,3,14,2,Neutral,Support,helpdesk,Car,No
+1494,08-06-2026,Employee,Core Experience,West,Area 6,Survey,Arabic,Female,45-54,5,-70,5,Positive,Support,concierge,Metro,No
+1495,21-02-2025,Retail Tenant,Services,Central,Area 2,Survey,English,Male,25-34,2,86,1,Negative,Support,helpdesk,Metro,No
+1496,31-01-2026,Employee,Arrival,West,Area 6,Call Center,English,Male,35-44,5,82,2,Neutral,Facilities,restroom,Metro,Yes
+1497,24-06-2026,Retail Tenant,Awareness,South,Area 2,Website,Arabic,Male,35-44,2,-88,1,Negative,Digital,wifi,Car,No
+1498,20-05-2026,Employee,Arrival,North,Area 6,App,English,Female,55+,4,92,3,Neutral,Cleanliness,cleanliness,Car,No
+1499,23-04-2026,Visitor,Arrival,East,Area 2,Website,English,Female,55+,4,88,1,Neutral,Wayfinding,navigation,Metro,No
+1500,20-05-2026,Visitor,Exit,North,Area 1,Website,English,Male,25-34,2,71,1,Neutral,Support,concierge,Metro,No
+1501,30-04-2026,Office Worker,Services,West,Area 5,Website,Arabic,Female,45-54,2,84,4,Neutral,Parking,parking,Metro,Yes
+1502,22-05-2026,Visitor,Arrival,South,Area 1,Survey,Arabic,Male,25-34,4,-17,4,Negative,Parking,parking,Metro,No
+1503,08-04-2026,Retail Tenant,Exit,Central,Area 3,Website,English,Male,45-54,2,42,3,Negative,Parking,parking,Metro,Yes
+1504,21-02-2025,Employee,Arrival,East,Area 2,Call Center,Arabic,Male,35-44,3,99,1,Neutral,Support,helpdesk,Metro,No
+1505,21-02-2025,Employee,Exit,West,Area 3,Call Center,Arabic,Male,35-44,1,30,5,Neutral,Facilities,restroom,Car,Yes
+1506,09-01-2026,Employee,Arrival,Central,Area 3,Call Center,Arabic,Male,25-34,5,23,1,Positive,Digital,app,Car,No
+1507,12-05-2026,Visitor,Exit,West,Area 2,Website,Arabic,Female,25-34,4,-96,2,Positive,Security,safety,Metro,No
+1508,21-03-2026,Visitor,Exit,South,Area 2,App,Arabic,Male,25-34,4,-77,4,Neutral,Digital,wifi,Car,Yes
+1509,30-05-2026,Resident,Awareness,North,Area 2,Website,English,Female,18-24,3,-99,1,Positive,Support,helpdesk,Metro,No
+1510,01-04-2026,Retail Tenant,Core Experience,West,Area 2,Survey,Arabic,Male,18-24,3,78,5,Positive,Cleanliness,maintenance,Metro,Yes
+1511,08-04-2026,Office Worker,Core Experience,South,Area 4,App,English,Female,45-54,1,37,3,Positive,Cleanliness,maintenance,Metro,Yes
+1512,08-01-2026,Resident,Exit,South,Area 2,Website,English,Female,18-24,4,68,5,Positive,Support,helpdesk,Metro,No
+1513,21-02-2025,Office Worker,Arrival,North,Area 2,Website,Arabic,Male,18-24,4,65,2,Positive,Digital,wifi,Metro,No
+1514,03-01-2026,Employee,Services,North,Area 6,Website,Arabic,Female,45-54,4,25,3,Positive,Facilities,shade,Car,Yes
+1515,24-04-2026,Resident,Awareness,West,Area 2,Website,English,Female,55+,1,21,3,Positive,Support,concierge,Car,Yes
+1516,21-04-2026,Visitor,Exit,West,Area 6,Call Center,Arabic,Male,25-34,4,92,3,Neutral,Support,helpdesk,Car,Yes
+1517,21-02-2025,Office Worker,Arrival,West,Area 7,Call Center,English,Female,35-44,2,95,1,Neutral,Digital,app,Metro,No
+1518,06-04-2026,Resident,Awareness,North,Area 4,App,English,Female,18-24,3,73,3,Neutral,Parking,car park,Metro,No
+1519,05-03-2026,Visitor,Core Experience,East,Area 1,App,English,Female,18-24,2,79,2,Positive,Wayfinding,navigation,Metro,No
+1520,21-02-2025,Visitor,Core Experience,South,Area 3,Website,English,Female,45-54,4,66,4,Positive,Facilities,shade,Metro,No
+1521,19-05-2026,Visitor,Exit,Central,Area 2,Website,English,Female,35-44,3,52,1,Negative,Parking,car park,Car,No
+1522,24-05-2026,Visitor,Exit,West,Area 2,Call Center,Arabic,Male,18-24,1,18,2,Neutral,Parking,parking,Metro,Yes
+1523,26-05-2026,Retail Tenant,Awareness,North,Area 1,Survey,Arabic,Male,35-44,4,32,3,Neutral,Security,security,Metro,No
+1524,23-03-2026,Resident,Arrival,North,Area 2,Website,Arabic,Male,18-24,1,-51,3,Positive,Support,concierge,Car,No
+1525,21-02-2025,Visitor,Exit,South,Area 7,Survey,Arabic,Female,45-54,2,97,4,Neutral,Support,helpdesk,Car,No
+1526,22-01-2026,Retail Tenant,Core Experience,South,Area 2,Website,Arabic,Female,25-34,3,39,3,Positive,Facilities,shade,Car,No
+1527,07-04-2026,Resident,Exit,North,Area 1,Call Center,Arabic,Male,25-34,5,2,5,Positive,Support,helpdesk,Car,No
+1528,17-03-2026,Retail Tenant,Exit,East,Area 2,App,Arabic,Female,18-24,3,89,3,Neutral,Wayfinding,navigation,Car,No
+1529,06-03-2026,Office Worker,Services,West,Area 2,Survey,Arabic,Female,35-44,2,-15,1,Neutral,Cleanliness,maintenance,Metro,No
+1530,03-01-2026,Resident,Services,Central,Area 2,Survey,Arabic,Male,45-54,1,40,4,Positive,Wayfinding,signage,Car,Yes
+1531,31-05-2026,Retail Tenant,Exit,Central,Area 1,Website,English,Female,35-44,2,88,4,Negative,Security,security,Car,No
+1532,21-02-2025,Retail Tenant,Awareness,Central,Area 6,Website,Arabic,Female,25-34,5,89,3,Negative,Parking,car park,Car,No
+1533,08-06-2026,Office Worker,Services,East,Area 6,Website,English,Male,35-44,1,48,3,Neutral,Security,safety,Metro,Yes
+1534,30-03-2026,Employee,Arrival,South,Area 2,Survey,Arabic,Female,55+,5,29,2,Neutral,Digital,app,Metro,Yes
+1535,19-01-2026,Employee,Core Experience,East,Area 6,App,English,Male,18-24,2,20,4,Positive,Security,security,Car,No
+1536,03-03-2026,Retail Tenant,Exit,North,Area 2,Survey,English,Male,18-24,4,48,5,Neutral,Wayfinding,navigation,Metro,No
+1537,09-05-2026,Retail Tenant,Awareness,West,Area 1,Call Center,English,Male,18-24,4,61,5,Neutral,Support,helpdesk,Car,No
+1538,10-03-2026,Resident,Exit,West,Area 2,Website,English,Male,18-24,5,98,2,Positive,Support,concierge,Metro,Yes
+1539,22-05-2026,Visitor,Exit,Central,Area 7,App,English,Female,25-34,2,-90,5,Neutral,Digital,app,Car,No
+1540,21-01-2026,Employee,Exit,North,Area 5,Survey,English,Male,18-24,5,68,4,Neutral,Support,helpdesk,Metro,Yes
+1541,22-05-2026,Visitor,Services,North,Area 1,Website,Arabic,Male,45-54,3,73,1,Positive,Facilities,restroom,Car,No
+1542,21-02-2025,Retail Tenant,Services,West,Area 2,App,English,Female,18-24,1,71,1,Negative,Wayfinding,signage,Car,No
+1543,28-01-2026,Office Worker,Core Experience,East,Area 2,App,Arabic,Female,18-24,5,74,2,Positive,Security,security,Metro,Yes
+1544,21-02-2025,Office Worker,Core Experience,West,Area 4,App,Arabic,Female,55+,5,22,2,Positive,Facilities,restroom,Metro,Yes
+1545,25-01-2026,Visitor,Services,Central,Area 2,Website,English,Female,45-54,3,57,5,Neutral,Security,security,Metro,Yes
+1546,15-03-2026,Office Worker,Awareness,North,Area 2,App,English,Male,25-34,1,92,2,Positive,Facilities,shade,Metro,No
+1547,21-02-2025,Resident,Core Experience,West,Area 4,App,Arabic,Female,45-54,5,12,4,Positive,Parking,car park,Car,No
+1548,21-04-2026,Retail Tenant,Awareness,Central,Area 1,App,Arabic,Male,45-54,5,8,4,Neutral,Wayfinding,signage,Metro,No
+1549,09-03-2026,Retail Tenant,Services,South,Area 3,App,Arabic,Female,35-44,4,66,2,Neutral,Cleanliness,cleanliness,Car,Yes
+1550,22-06-2026,Resident,Exit,Central,Area 7,Call Center,English,Male,35-44,4,73,4,Positive,Cleanliness,maintenance,Car,No
+1551,21-02-2025,Office Worker,Arrival,South,Area 2,App,Arabic,Female,45-54,1,60,5,Positive,Facilities,shade,Car,No
+1552,07-01-2026,Resident,Arrival,East,Area 3,App,English,Male,18-24,3,51,1,Neutral,Security,security,Metro,No
+1553,21-02-2025,Resident,Awareness,West,Area 6,Survey,English,Female,45-54,3,96,1,Neutral,Facilities,restroom,Car,Yes
+1554,16-06-2026,Employee,Awareness,East,Area 2,App,Arabic,Female,55+,2,10,5,Positive,Security,safety,Car,Yes
+1555,20-05-2026,Employee,Services,West,Area 2,Call Center,English,Female,55+,1,-56,4,Neutral,Security,security,Car,Yes
+1556,09-05-2026,Office Worker,Services,West,Area 2,App,English,Female,55+,1,8,5,Neutral,Security,security,Car,No
+1557,27-04-2026,Office Worker,Core Experience,Central,Area 1,Website,English,Male,45-54,1,5,4,Positive,Facilities,restroom,Car,Yes
+1558,05-04-2026,Retail Tenant,Awareness,East,Area 2,App,Arabic,Male,35-44,3,24,4,Negative,Support,helpdesk,Metro,No
+1559,24-03-2026,Resident,Services,South,Area 6,Website,English,Male,35-44,2,48,4,Neutral,Cleanliness,cleanliness,Car,No
+1560,27-03-2026,Retail Tenant,Core Experience,Central,Area 1,Website,English,Female,18-24,4,49,4,Neutral,Wayfinding,navigation,Car,No
+1561,19-01-2026,Retail Tenant,Awareness,Central,Area 2,App,English,Female,25-34,4,88,1,Neutral,Wayfinding,navigation,Metro,No
+1562,23-03-2026,Office Worker,Services,North,Area 2,App,Arabic,Male,45-54,5,84,2,Positive,Security,safety,Car,Yes
+1563,16-04-2026,Employee,Awareness,East,Area 2,Call Center,English,Female,45-54,3,23,1,Neutral,Support,helpdesk,Car,No
+1564,03-04-2026,Visitor,Core Experience,East,Area 7,Call Center,Arabic,Male,18-24,5,68,4,Neutral,Parking,car park,Car,Yes
+1565,17-05-2026,Resident,Services,West,Area 6,Survey,English,Female,18-24,2,1,2,Positive,Facilities,shade,Car,No
+1566,19-03-2026,Visitor,Awareness,East,Area 6,Website,English,Male,55+,1,60,3,Neutral,Support,concierge,Metro,Yes
+1567,21-02-2025,Resident,Exit,South,Area 2,Website,English,Male,35-44,5,69,4,Positive,Facilities,shade,Metro,No
+1568,02-05-2026,Retail Tenant,Arrival,East,Area 2,Website,Arabic,Male,35-44,4,32,2,Negative,Parking,car park,Car,Yes
+1569,21-02-2025,Retail Tenant,Awareness,North,Area 3,Call Center,English,Female,25-34,4,20,3,Neutral,Security,security,Car,Yes
+1570,25-01-2026,Employee,Services,West,Area 2,Survey,Arabic,Male,35-44,3,93,2,Neutral,Cleanliness,maintenance,Metro,No
+1571,17-01-2026,Retail Tenant,Services,Central,Area 7,Call Center,Arabic,Female,35-44,1,85,1,Neutral,Facilities,shade,Car,No
+1572,28-04-2026,Retail Tenant,Arrival,Central,Area 1,Survey,Arabic,Female,45-54,4,99,5,Negative,Parking,car park,Car,No
+1573,16-04-2026,Resident,Services,Central,Area 6,Survey,Arabic,Male,18-24,1,27,2,Neutral,Parking,parking,Car,Yes
+1574,21-03-2026,Resident,Awareness,North,Area 2,Website,Arabic,Male,55+,1,77,1,Neutral,Security,security,Car,Yes
+1575,17-01-2026,Visitor,Core Experience,North,Area 2,App,Arabic,Male,45-54,1,77,4,Positive,Security,security,Car,No
+1576,30-03-2026,Retail Tenant,Awareness,Central,Area 7,Survey,English,Male,25-34,1,95,2,Negative,Facilities,restroom,Car,No
+1577,29-04-2026,Resident,Exit,East,Area 3,App,Arabic,Male,25-34,1,57,4,Positive,Support,helpdesk,Metro,Yes
+1578,11-04-2026,Resident,Exit,West,Area 2,App,English,Female,18-24,2,28,5,Neutral,Parking,parking,Car,Yes
+1579,07-05-2026,Resident,Arrival,South,Area 2,Website,English,Female,45-54,1,65,2,Neutral,Cleanliness,cleanliness,Car,Yes
+1580,21-02-2025,Visitor,Exit,North,Area 2,Call Center,Arabic,Female,18-24,3,94,2,Positive,Security,safety,Metro,No
+1581,09-06-2026,Visitor,Arrival,West,Area 3,App,Arabic,Male,18-24,5,74,3,Neutral,Parking,parking,Car,No
+1582,11-03-2026,Visitor,Awareness,North,Area 2,Survey,Arabic,Female,18-24,5,-70,3,Positive,Cleanliness,maintenance,Metro,No
+1583,24-03-2026,Office Worker,Exit,East,Area 2,App,Arabic,Female,18-24,3,85,2,Neutral,Wayfinding,navigation,Car,Yes
+1584,18-03-2026,Retail Tenant,Arrival,South,Area 1,Call Center,English,Male,45-54,5,53,2,Neutral,Support,helpdesk,Car,No
+1585,03-04-2026,Visitor,Awareness,South,Area 1,Website,Arabic,Female,55+,3,8,3,Neutral,Support,concierge,Car,Yes
+1586,20-06-2026,Employee,Exit,North,Area 4,Call Center,Arabic,Male,55+,5,95,5,Positive,Digital,wifi,Metro,No
+1587,13-05-2026,Resident,Awareness,North,Area 2,Call Center,Arabic,Female,45-54,2,-29,4,Positive,Wayfinding,signage,Metro,Yes
+1588,30-03-2026,Employee,Services,Central,Area 1,Survey,Arabic,Female,35-44,4,45,1,Neutral,Parking,parking,Car,Yes
+1589,26-03-2026,Resident,Exit,North,Area 6,Survey,English,Male,55+,4,41,5,Positive,Wayfinding,signage,Car,No
+1590,31-01-2026,Visitor,Services,South,Area 2,Website,Arabic,Female,18-24,4,-81,4,Neutral,Security,security,Car,Yes
+1591,26-03-2026,Office Worker,Awareness,South,Area 2,Call Center,English,Male,35-44,3,24,4,Neutral,Wayfinding,navigation,Car,Yes
+1592,21-05-2026,Resident,Services,South,Area 2,App,Arabic,Male,18-24,5,31,4,Positive,Security,safety,Car,No
+1593,10-05-2026,Resident,Arrival,West,Area 6,Website,Arabic,Female,18-24,2,91,3,Neutral,Parking,parking,Metro,No
+1594,28-06-2026,Visitor,Awareness,West,Area 7,Website,Arabic,Male,35-44,2,8,4,Negative,Parking,parking,Car,No
+1595,10-04-2026,Visitor,Services,South,Area 1,Call Center,Arabic,Male,18-24,5,54,4,Neutral,Parking,car park,Metro,Yes
+1596,16-01-2026,Retail Tenant,Arrival,Central,Area 2,Call Center,English,Male,55+,5,18,5,Neutral,Facilities,restroom,Car,Yes
+1597,09-05-2026,Visitor,Core Experience,West,Area 4,Call Center,Arabic,Male,45-54,4,-68,2,Positive,Support,concierge,Metro,Yes
+1598,27-06-2026,Office Worker,Awareness,East,Area 1,Website,English,Female,45-54,2,83,3,Neutral,Cleanliness,maintenance,Car,No
+1599,21-02-2025,Visitor,Exit,South,Area 2,Call Center,English,Male,25-34,1,48,4,Positive,Support,helpdesk,Car,Yes
+1600,11-03-2026,Resident,Awareness,West,Area 2,Website,English,Male,35-44,1,93,5,Positive,Digital,wifi,Car,No
+1601,03-04-2026,Office Worker,Core Experience,North,Area 2,Call Center,English,Female,45-54,2,35,1,Positive,Facilities,restroom,Metro,No
+1602,31-01-2026,Employee,Arrival,West,Area 1,Call Center,English,Female,18-24,4,78,5,Positive,Digital,app,Metro,No
+1603,02-06-2026,Retail Tenant,Services,South,Area 6,Survey,Arabic,Female,25-34,1,25,1,Negative,Parking,car park,Metro,No
+1604,11-03-2026,Visitor,Exit,South,Area 2,App,English,Male,25-34,5,28,5,Neutral,Support,helpdesk,Car,Yes
+1605,18-03-2026,Resident,Arrival,South,Area 7,Call Center,Arabic,Female,55+,4,43,2,Positive,Facilities,shade,Car,Yes
+1606,26-05-2026,Resident,Exit,Central,Area 2,Website,Arabic,Female,35-44,3,28,1,Neutral,Facilities,shade,Car,Yes
+1607,07-01-2026,Office Worker,Core Experience,Central,Area 6,Survey,English,Female,18-24,2,96,1,Positive,Digital,wifi,Car,No
+1608,16-06-2026,Visitor,Core Experience,Central,Area 1,Website,Arabic,Male,18-24,4,-11,2,Positive,Facilities,shade,Metro,Yes
+1609,11-03-2026,Resident,Exit,Central,Area 1,Website,English,Female,25-34,5,51,2,Neutral,Parking,parking,Car,No
+1610,21-02-2025,Visitor,Exit,Central,Area 5,Website,Arabic,Female,55+,2,42,5,Positive,Digital,app,Metro,No
+1611,02-05-2026,Retail Tenant,Exit,East,Area 2,Call Center,Arabic,Male,55+,3,60,4,Neutral,Facilities,shade,Car,Yes
+1612,03-03-2026,Retail Tenant,Arrival,East,Area 3,Survey,Arabic,Male,45-54,5,40,3,Neutral,Digital,wifi,Car,Yes
+1613,19-04-2026,Office Worker,Awareness,North,Area 2,Survey,Arabic,Female,55+,3,66,3,Positive,Wayfinding,navigation,Metro,No
+1614,13-05-2026,Retail Tenant,Arrival,North,Area 5,Survey,English,Male,35-44,4,13,4,Neutral,Wayfinding,navigation,Car,No
+1615,26-06-2026,Resident,Awareness,South,Area 5,Call Center,Arabic,Female,25-34,4,-74,3,Positive,Security,security,Metro,Yes
+1616,01-03-2026,Office Worker,Arrival,East,Area 2,Website,Arabic,Female,25-34,3,-48,3,Neutral,Facilities,restroom,Metro,No
+1617,11-05-2026,Visitor,Exit,East,Area 2,Website,Arabic,Female,35-44,1,29,5,Neutral,Cleanliness,maintenance,Car,No
+1618,08-01-2026,Resident,Core Experience,West,Area 2,App,Arabic,Female,18-24,2,34,1,Positive,Security,security,Metro,Yes
+1619,10-01-2026,Resident,Exit,North,Area 4,Website,English,Female,55+,5,75,5,Positive,Support,concierge,Car,Yes
+1620,21-06-2026,Office Worker,Exit,South,Area 3,Website,Arabic,Male,45-54,4,20,3,Positive,Security,safety,Car,Yes
+1621,16-03-2026,Employee,Arrival,Central,Area 2,App,Arabic,Female,55+,2,30,3,Positive,Cleanliness,cleanliness,Metro,No
+1622,15-06-2026,Office Worker,Services,South,Area 2,App,Arabic,Male,35-44,4,32,5,Positive,Cleanliness,maintenance,Car,No
+1623,21-02-2025,Office Worker,Services,West,Area 2,App,English,Male,45-54,4,-17,5,Positive,Security,security,Car,No
+1624,25-01-2026,Retail Tenant,Exit,South,Area 3,Survey,Arabic,Female,18-24,3,98,3,Neutral,Wayfinding,signage,Car,No
+1625,29-04-2026,Resident,Services,North,Area 3,Website,English,Male,45-54,4,59,4,Positive,Wayfinding,signage,Metro,No
+1626,24-05-2026,Resident,Core Experience,North,Area 2,Survey,English,Female,18-24,2,22,3,Positive,Parking,parking,Metro,Yes
+1627,03-06-2026,Resident,Services,West,Area 7,Call Center,English,Male,25-34,2,63,5,Neutral,Digital,app,Car,No
+1628,30-06-2026,Retail Tenant,Exit,North,Area 2,App,English,Female,35-44,2,83,5,Neutral,Digital,app,Metro,Yes
+1629,19-04-2026,Employee,Services,South,Area 6,Survey,English,Male,45-54,1,5,5,Neutral,Wayfinding,navigation,Metro,Yes
+1630,22-05-2026,Employee,Awareness,East,Area 6,Survey,English,Female,25-34,1,98,1,Neutral,Cleanliness,cleanliness,Metro,Yes
+1631,12-04-2026,Employee,Core Experience,North,Area 1,Website,English,Male,55+,1,-83,4,Positive,Security,safety,Car,Yes
+1632,03-03-2026,Office Worker,Exit,South,Area 2,Website,English,Male,25-34,2,91,1,Neutral,Support,helpdesk,Metro,No
+1633,21-02-2025,Office Worker,Exit,North,Area 1,Website,Arabic,Male,45-54,2,28,1,Neutral,Support,concierge,Metro,Yes
+1634,11-05-2026,Resident,Awareness,East,Area 2,Website,English,Male,25-34,5,48,4,Neutral,Facilities,shade,Car,Yes
+1635,20-04-2026,Resident,Arrival,Central,Area 2,Call Center,English,Female,18-24,1,82,5,Neutral,Parking,parking,Car,Yes
+1636,19-01-2026,Office Worker,Arrival,East,Area 7,Call Center,English,Female,45-54,5,85,4,Positive,Facilities,restroom,Car,Yes
+1637,24-06-2026,Office Worker,Exit,West,Area 1,Survey,Arabic,Male,18-24,4,1,1,Neutral,Security,safety,Metro,No
+1638,06-05-2026,Resident,Awareness,East,Area 2,Call Center,Arabic,Female,35-44,5,53,5,Positive,Cleanliness,maintenance,Car,No
+1639,21-02-2025,Retail Tenant,Arrival,South,Area 2,Survey,English,Female,55+,1,-33,1,Neutral,Support,concierge,Metro,No
+1640,03-04-2026,Office Worker,Awareness,South,Area 2,Website,English,Female,25-34,3,37,5,Negative,Parking,parking,Car,No
+1641,09-03-2026,Retail Tenant,Services,South,Area 1,Survey,Arabic,Female,55+,1,90,5,Neutral,Cleanliness,cleanliness,Metro,Yes
+1642,29-05-2026,Employee,Services,North,Area 6,App,English,Male,55+,4,14,2,Positive,Cleanliness,maintenance,Metro,No
+1643,01-01-2026,Retail Tenant,Arrival,West,Area 1,Call Center,Arabic,Male,35-44,1,20,5,Neutral,Wayfinding,navigation,Metro,Yes
+1644,03-04-2026,Retail Tenant,Exit,North,Area 1,Survey,English,Female,35-44,2,80,2,Negative,Digital,app,Car,No
+1645,07-06-2026,Office Worker,Services,Central,Area 6,Survey,English,Female,18-24,5,46,3,Positive,Facilities,restroom,Metro,No
+1646,05-03-2026,Visitor,Core Experience,East,Area 2,Website,Arabic,Female,25-34,3,11,4,Positive,Wayfinding,signage,Car,Yes
+1647,14-04-2026,Employee,Exit,North,Area 1,Survey,English,Female,25-34,3,59,4,Neutral,Security,safety,Metro,Yes
+1648,01-01-2026,Visitor,Services,North,Area 2,Call Center,Arabic,Male,55+,5,90,2,Neutral,Parking,car park,Metro,Yes
+1649,16-06-2026,Employee,Exit,Central,Area 1,Survey,Arabic,Female,25-34,2,88,3,Positive,Support,concierge,Car,No
+1650,26-04-2026,Office Worker,Exit,North,Area 2,App,English,Female,25-34,1,12,1,Neutral,Parking,car park,Metro,No
+1651,27-04-2026,Employee,Awareness,West,Area 2,Call Center,English,Male,45-54,4,49,4,Neutral,Cleanliness,cleanliness,Metro,Yes
+1652,24-03-2026,Employee,Core Experience,Central,Area 7,Website,Arabic,Male,18-24,5,8,4,Positive,Digital,wifi,Car,Yes
+1653,11-03-2026,Office Worker,Exit,South,Area 3,Call Center,English,Female,35-44,1,11,2,Neutral,Cleanliness,cleanliness,Metro,No
+1654,03-04-2026,Office Worker,Awareness,South,Area 2,Call Center,Arabic,Male,18-24,4,83,4,Neutral,Security,security,Metro,Yes
+1655,21-02-2025,Employee,Core Experience,Central,Area 3,App,Arabic,Male,45-54,3,13,5,Positive,Support,concierge,Car,No
+1656,21-02-2025,Employee,Awareness,Central,Area 2,App,Arabic,Male,35-44,5,30,1,Negative,Parking,car park,Car,Yes
+1657,21-02-2025,Retail Tenant,Core Experience,Central,Area 2,Call Center,Arabic,Male,18-24,2,61,5,Neutral,Digital,app,Metro,No
+1658,19-01-2026,Employee,Exit,North,Area 2,Website,English,Male,55+,3,10,1,Neutral,Parking,car park,Car,No
+1659,13-04-2026,Visitor,Core Experience,West,Area 1,App,English,Female,35-44,3,73,5,Positive,Support,helpdesk,Car,Yes
+1660,16-03-2026,Office Worker,Awareness,South,Area 7,Call Center,English,Female,25-34,1,41,2,Positive,Support,concierge,Car,Yes
+1661,21-02-2025,Employee,Arrival,East,Area 6,App,English,Female,25-34,1,76,2,Positive,Security,security,Metro,No
+1662,08-06-2026,Visitor,Arrival,North,Area 2,Website,Arabic,Female,45-54,2,10,4,Neutral,Facilities,shade,Car,No
+1663,21-03-2026,Visitor,Arrival,East,Area 2,Website,English,Male,55+,3,73,2,Neutral,Facilities,shade,Metro,Yes
+1664,25-05-2026,Visitor,Exit,Central,Area 6,Website,English,Male,55+,2,50,5,Positive,Digital,app,Metro,No
+1665,21-02-2025,Office Worker,Exit,West,Area 2,App,English,Female,25-34,5,50,3,Neutral,Support,concierge,Metro,Yes
+1666,30-03-2026,Resident,Exit,East,Area 2,Website,English,Male,35-44,2,65,1,Neutral,Cleanliness,maintenance,Car,Yes
+1667,21-02-2025,Resident,Core Experience,South,Area 2,Survey,English,Male,55+,3,-88,1,Positive,Cleanliness,maintenance,Metro,No
+1668,12-04-2026,Retail Tenant,Arrival,Central,Area 6,Survey,English,Male,45-54,4,10,2,Neutral,Security,safety,Car,Yes
+1669,15-01-2026,Office Worker,Core Experience,South,Area 2,App,Arabic,Male,18-24,3,99,5,Positive,Digital,wifi,Car,Yes
+1670,25-05-2026,Visitor,Arrival,North,Area 1,App,English,Female,45-54,5,51,5,Neutral,Security,security,Car,No
+1671,10-05-2026,Employee,Exit,Central,Area 6,Survey,Arabic,Female,18-24,3,82,1,Positive,Cleanliness,cleanliness,Car,No
+1672,16-04-2026,Office Worker,Exit,Central,Area 2,Survey,English,Male,55+,3,63,4,Neutral,Security,security,Car,Yes
+1673,20-06-2026,Office Worker,Arrival,North,Area 2,Survey,English,Female,35-44,2,71,3,Neutral,Digital,wifi,Metro,Yes
+1674,09-03-2026,Office Worker,Core Experience,West,Area 2,App,Arabic,Male,55+,4,24,4,Positive,Facilities,restroom,Car,No
+1675,14-03-2026,Retail Tenant,Arrival,North,Area 6,Website,Arabic,Male,25-34,5,11,4,Negative,Parking,car park,Metro,Yes
+1676,17-01-2026,Employee,Awareness,South,Area 2,Survey,English,Male,25-34,5,32,3,Neutral,Digital,wifi,Car,Yes
+1677,05-01-2026,Visitor,Arrival,West,Area 1,Website,Arabic,Male,55+,1,35,1,Positive,Cleanliness,cleanliness,Car,Yes
+1678,12-04-2026,Visitor,Exit,West,Area 5,Website,Arabic,Female,18-24,2,92,4,Negative,Parking,parking,Metro,Yes
+1679,08-04-2026,Retail Tenant,Services,North,Area 2,App,Arabic,Male,45-54,2,41,4,Negative,Support,helpdesk,Metro,Yes
+1680,19-03-2026,Resident,Awareness,West,Area 2,App,English,Female,18-24,3,12,1,Neutral,Parking,parking,Metro,No
+1681,18-05-2026,Employee,Arrival,Central,Area 2,Website,Arabic,Male,18-24,1,57,3,Neutral,Wayfinding,signage,Metro,Yes
+1682,01-06-2026,Office Worker,Awareness,Central,Area 2,Survey,English,Female,25-34,3,14,3,Positive,Facilities,shade,Metro,Yes
+1683,25-04-2026,Visitor,Awareness,East,Area 4,Survey,English,Female,55+,2,-77,1,Neutral,Facilities,restroom,Metro,Yes
+1684,14-01-2026,Resident,Exit,Central,Area 2,Survey,Arabic,Male,45-54,4,72,4,Neutral,Security,security,Metro,Yes
+1685,28-05-2026,Visitor,Services,South,Area 1,App,English,Male,35-44,5,53,5,Neutral,Facilities,shade,Car,Yes
+1686,14-06-2026,Office Worker,Services,North,Area 3,Website,Arabic,Male,35-44,1,12,1,Positive,Facilities,restroom,Car,Yes
+1687,28-04-2026,Resident,Exit,Central,Area 2,Website,English,Male,35-44,3,12,5,Neutral,Cleanliness,cleanliness,Metro,Yes
+1688,23-03-2026,Visitor,Core Experience,North,Area 3,Call Center,Arabic,Female,35-44,5,42,5,Positive,Facilities,restroom,Car,No
+1689,07-04-2026,Office Worker,Arrival,West,Area 2,App,Arabic,Female,25-34,4,38,1,Positive,Cleanliness,cleanliness,Metro,Yes
+1690,21-02-2025,Resident,Awareness,West,Area 5,Survey,Arabic,Female,25-34,4,100,4,Positive,Security,security,Metro,No
+1691,04-06-2026,Office Worker,Services,West,Area 2,App,Arabic,Female,45-54,1,32,5,Positive,Support,concierge,Car,No
+1692,25-05-2026,Office Worker,Awareness,West,Area 1,Survey,English,Male,18-24,5,22,5,Positive,Facilities,shade,Car,No
+1693,22-04-2026,Office Worker,Awareness,Central,Area 2,Call Center,English,Male,25-34,4,18,2,Neutral,Support,concierge,Car,No
+1694,12-06-2026,Retail Tenant,Services,West,Area 6,App,Arabic,Female,35-44,3,35,3,Neutral,Digital,wifi,Metro,Yes
+1695,16-06-2026,Retail Tenant,Exit,East,Area 6,Website,Arabic,Male,35-44,4,-92,2,Negative,Wayfinding,navigation,Car,Yes
+1696,31-03-2026,Employee,Arrival,Central,Area 2,App,Arabic,Female,18-24,2,36,4,Neutral,Parking,car park,Metro,Yes
+1697,13-06-2026,Retail Tenant,Services,South,Area 1,App,Arabic,Female,35-44,4,62,3,Neutral,Facilities,shade,Car,No
+1698,13-04-2026,Resident,Awareness,East,Area 2,Website,Arabic,Male,25-34,1,33,3,Neutral,Parking,car park,Car,No
+1699,15-04-2026,Employee,Exit,North,Area 2,Call Center,English,Female,18-24,2,77,4,Neutral,Cleanliness,maintenance,Car,Yes
+1700,21-02-2025,Office Worker,Exit,Central,Area 7,Website,Arabic,Male,45-54,5,59,2,Neutral,Cleanliness,maintenance,Metro,No
+1701,07-04-2026,Resident,Awareness,South,Area 2,Call Center,English,Female,25-34,1,39,2,Positive,Security,safety,Metro,No
+1702,17-01-2026,Retail Tenant,Core Experience,West,Area 1,Survey,English,Female,25-34,1,43,4,Neutral,Wayfinding,signage,Metro,Yes
+1703,04-06-2026,Visitor,Exit,South,Area 2,App,English,Female,45-54,5,43,4,Neutral,Facilities,restroom,Metro,No
+1704,08-03-2026,Retail Tenant,Awareness,South,Area 6,Website,Arabic,Male,18-24,4,56,3,Negative,Security,security,Metro,No
+1705,12-06-2026,Employee,Awareness,Central,Area 2,Call Center,English,Female,55+,5,39,2,Neutral,Security,safety,Car,No
+1706,24-06-2026,Retail Tenant,Exit,North,Area 1,Website,English,Female,55+,3,89,5,Negative,Facilities,shade,Metro,No
+1707,27-04-2026,Resident,Arrival,South,Area 2,Survey,Arabic,Male,18-24,2,41,4,Positive,Support,concierge,Metro,No
+1708,24-01-2026,Retail Tenant,Arrival,West,Area 2,Website,English,Male,55+,2,41,4,Neutral,Wayfinding,navigation,Car,No
+1709,20-03-2026,Visitor,Awareness,Central,Area 2,Call Center,Arabic,Female,45-54,3,74,4,Neutral,Parking,car park,Metro,Yes
+1710,18-05-2026,Employee,Core Experience,Central,Area 1,App,English,Female,35-44,2,49,3,Positive,Wayfinding,navigation,Metro,No
+1711,07-01-2026,Visitor,Services,East,Area 2,Survey,English,Male,55+,3,47,4,Positive,Wayfinding,navigation,Car,No
+1712,27-06-2026,Retail Tenant,Awareness,East,Area 1,Call Center,English,Male,45-54,1,26,5,Neutral,Wayfinding,signage,Metro,Yes
+1713,31-05-2026,Retail Tenant,Arrival,West,Area 2,Call Center,Arabic,Female,45-54,5,24,5,Neutral,Digital,app,Car,No
+1714,01-01-2026,Resident,Exit,East,Area 7,App,Arabic,Male,35-44,5,-7,1,Positive,Cleanliness,maintenance,Metro,No
+1715,26-03-2026,Resident,Exit,Central,Area 1,Call Center,English,Female,55+,4,57,2,Neutral,Security,safety,Car,No
+1716,04-04-2026,Retail Tenant,Core Experience,West,Area 4,Survey,Arabic,Male,18-24,3,53,1,Positive,Support,helpdesk,Car,No
+1717,24-04-2026,Resident,Core Experience,North,Area 3,App,Arabic,Male,25-34,4,82,2,Positive,Digital,app,Metro,No
+1718,21-02-2025,Retail Tenant,Exit,East,Area 7,Survey,English,Male,25-34,3,33,2,Neutral,Security,security,Metro,Yes
+1719,11-05-2026,Resident,Exit,South,Area 2,App,English,Female,18-24,2,49,4,Neutral,Parking,parking,Metro,Yes
+1720,13-03-2026,Retail Tenant,Awareness,Central,Area 1,App,English,Female,45-54,1,77,4,Negative,Parking,parking,Car,No
+1721,27-05-2026,Office Worker,Awareness,Central,Area 2,Survey,English,Female,55+,4,-49,5,Neutral,Parking,car park,Car,Yes
+1722,21-02-2025,Office Worker,Arrival,North,Area 5,Call Center,Arabic,Male,55+,5,89,5,Neutral,Digital,app,Car,No
+1723,14-04-2026,Employee,Exit,Central,Area 3,Website,Arabic,Female,45-54,4,5,5,Neutral,Facilities,shade,Metro,Yes
+1724,18-05-2026,Visitor,Exit,Central,Area 2,Call Center,Arabic,Female,25-34,3,77,5,Positive,Security,security,Metro,Yes
+1725,28-03-2026,Office Worker,Arrival,East,Area 1,Call Center,Arabic,Male,55+,1,99,1,Neutral,Facilities,restroom,Car,No
+1726,04-04-2026,Employee,Exit,West,Area 2,Survey,English,Female,35-44,2,22,3,Neutral,Wayfinding,signage,Car,Yes
+1727,21-03-2026,Visitor,Exit,West,Area 6,Call Center,Arabic,Female,55+,5,73,1,Neutral,Support,concierge,Car,No
+1728,19-01-2026,Resident,Arrival,Central,Area 2,Call Center,English,Female,55+,4,56,3,Neutral,Digital,wifi,Metro,Yes
+1729,16-06-2026,Office Worker,Awareness,West,Area 6,Website,Arabic,Female,35-44,1,13,1,Neutral,Facilities,restroom,Car,No
+1730,19-03-2026,Visitor,Exit,North,Area 7,Website,English,Female,55+,3,66,2,Neutral,Security,security,Car,No
+1731,08-04-2026,Retail Tenant,Awareness,East,Area 2,App,English,Female,18-24,5,75,5,Neutral,Digital,wifi,Metro,Yes
+1732,31-03-2026,Retail Tenant,Core Experience,Central,Area 1,Website,Arabic,Male,45-54,5,58,2,Neutral,Parking,car park,Car,Yes
+1733,01-05-2026,Retail Tenant,Exit,North,Area 6,Call Center,Arabic,Female,25-34,3,-41,4,Negative,Parking,parking,Metro,No
+1734,21-02-2025,Retail Tenant,Core Experience,North,Area 2,App,English,Female,25-34,5,20,5,Neutral,Parking,car park,Metro,No
+1735,21-05-2026,Resident,Core Experience,East,Area 2,Survey,Arabic,Male,35-44,3,62,1,Positive,Cleanliness,cleanliness,Car,No
+1736,23-06-2026,Resident,Exit,North,Area 1,Website,English,Female,35-44,1,54,3,Neutral,Facilities,restroom,Metro,No
+1737,26-05-2026,Employee,Services,Central,Area 1,Survey,Arabic,Female,25-34,1,94,1,Positive,Support,concierge,Car,Yes
+1738,04-01-2026,Retail Tenant,Services,South,Area 6,Survey,English,Female,25-34,2,40,3,Negative,Facilities,restroom,Metro,Yes
+1739,14-04-2026,Visitor,Services,South,Area 2,App,English,Female,35-44,3,27,4,Neutral,Digital,wifi,Car,No
+1740,22-01-2026,Employee,Arrival,South,Area 1,App,Arabic,Female,35-44,5,45,4,Neutral,Cleanliness,maintenance,Metro,No
+1741,01-05-2026,Employee,Core Experience,South,Area 6,Website,English,Female,45-54,4,57,1,Positive,Security,security,Metro,No
+1742,12-01-2026,Resident,Arrival,Central,Area 2,Website,Arabic,Male,25-34,4,-92,3,Positive,Support,concierge,Car,No
+1743,23-06-2026,Resident,Core Experience,North,Area 2,App,Arabic,Female,18-24,3,91,1,Positive,Cleanliness,maintenance,Car,No
+1744,09-05-2026,Employee,Services,West,Area 3,Call Center,Arabic,Male,55+,1,44,1,Neutral,Support,concierge,Metro,No
+1745,20-03-2026,Resident,Awareness,Central,Area 1,Survey,Arabic,Female,25-34,1,95,2,Positive,Facilities,shade,Metro,Yes
+1746,21-02-2025,Retail Tenant,Services,Central,Area 2,Website,Arabic,Male,25-34,2,23,5,Neutral,Facilities,shade,Car,No
+1747,12-06-2026,Employee,Exit,East,Area 2,Website,English,Male,55+,5,43,2,Neutral,Cleanliness,maintenance,Metro,No
+1748,20-05-2026,Employee,Core Experience,Central,Area 2,Survey,Arabic,Male,45-54,5,60,4,Positive,Support,helpdesk,Metro,Yes
+1749,06-03-2026,Office Worker,Services,South,Area 3,App,English,Female,18-24,2,81,4,Neutral,Wayfinding,navigation,Car,Yes
+1750,03-04-2026,Visitor,Awareness,North,Area 2,App,Arabic,Female,25-34,2,82,2,Positive,Security,security,Car,Yes
+1751,21-03-2026,Employee,Awareness,North,Area 2,Survey,English,Male,45-54,4,-97,4,Neutral,Digital,app,Metro,No
+1752,28-05-2026,Visitor,Services,North,Area 2,App,English,Male,25-34,5,58,2,Neutral,Parking,car park,Car,Yes
+1753,02-01-2026,Office Worker,Core Experience,Central,Area 1,App,English,Male,18-24,5,50,4,Positive,Facilities,restroom,Metro,Yes
+1754,29-05-2026,Visitor,Arrival,Central,Area 1,Survey,Arabic,Female,18-24,1,27,2,Negative,Parking,parking,Car,Yes
+1755,13-04-2026,Office Worker,Services,South,Area 2,App,Arabic,Female,25-34,3,74,1,Neutral,Cleanliness,maintenance,Car,Yes
+1756,12-01-2026,Office Worker,Exit,East,Area 2,Website,Arabic,Female,18-24,1,24,5,Positive,Wayfinding,navigation,Car,No
+1757,15-05-2026,Employee,Services,Central,Area 2,Website,English,Male,45-54,3,26,3,Neutral,Support,helpdesk,Metro,Yes
+1758,25-06-2026,Resident,Awareness,Central,Area 1,Survey,English,Male,35-44,4,34,1,Positive,Support,concierge,Metro,No
+1759,14-03-2026,Employee,Services,East,Area 2,Website,English,Male,45-54,4,82,5,Neutral,Wayfinding,signage,Car,No
+1760,16-06-2026,Visitor,Awareness,North,Area 2,Website,English,Female,18-24,3,50,5,Neutral,Parking,car park,Car,Yes
+1761,04-04-2026,Office Worker,Exit,Central,Area 5,App,English,Male,25-34,5,-25,4,Positive,Security,safety,Metro,No
+1762,28-06-2026,Visitor,Awareness,North,Area 6,Survey,English,Male,18-24,1,46,3,Neutral,Digital,wifi,Metro,Yes
+1763,25-04-2026,Visitor,Core Experience,South,Area 1,Call Center,English,Female,35-44,4,23,5,Positive,Security,security,Car,No
+1764,18-05-2026,Retail Tenant,Core Experience,South,Area 2,Call Center,English,Female,35-44,3,-25,5,Positive,Security,safety,Car,Yes
+1765,02-01-2026,Resident,Services,Central,Area 2,Website,Arabic,Female,55+,1,41,2,Positive,Cleanliness,cleanliness,Car,Yes
+1766,21-02-2025,Employee,Services,Central,Area 2,Survey,Arabic,Female,45-54,1,-61,2,Neutral,Wayfinding,signage,Car,Yes
+1767,25-05-2026,Resident,Core Experience,East,Area 2,Call Center,Arabic,Male,35-44,1,48,2,Positive,Cleanliness,cleanliness,Car,No
+1768,25-05-2026,Employee,Awareness,North,Area 2,Survey,Arabic,Male,18-24,2,50,5,Neutral,Security,security,Car,Yes
+1769,20-04-2026,Retail Tenant,Services,Central,Area 2,Website,English,Male,35-44,4,18,5,Negative,Parking,car park,Metro,No
+1770,26-03-2026,Visitor,Services,West,Area 3,Call Center,English,Male,18-24,5,55,4,Positive,Security,security,Car,Yes
+1771,21-02-2025,Retail Tenant,Core Experience,South,Area 2,Survey,Arabic,Male,35-44,2,-19,4,Positive,Digital,app,Metro,Yes
+1772,01-03-2026,Visitor,Exit,South,Area 2,App,English,Male,35-44,5,72,2,Neutral,Security,security,Metro,Yes
+1773,15-06-2026,Visitor,Core Experience,South,Area 4,Website,English,Male,55+,2,-64,4,Positive,Wayfinding,signage,Metro,No
+1774,28-03-2026,Office Worker,Awareness,South,Area 7,App,English,Female,18-24,2,41,2,Neutral,Cleanliness,cleanliness,Metro,Yes
+1775,24-03-2026,Retail Tenant,Awareness,West,Area 2,Call Center,Arabic,Female,18-24,4,7,5,Neutral,Facilities,restroom,Metro,No
+1776,11-04-2026,Retail Tenant,Core Experience,South,Area 7,Website,Arabic,Male,55+,3,63,1,Neutral,Wayfinding,signage,Car,No
+1777,15-06-2026,Employee,Core Experience,North,Area 1,App,English,Male,25-34,2,-51,2,Positive,Security,safety,Car,No
+1778,06-05-2026,Visitor,Arrival,North,Area 2,Call Center,Arabic,Female,25-34,5,84,5,Neutral,Support,concierge,Metro,No
+1779,04-05-2026,Office Worker,Core Experience,South,Area 3,Website,Arabic,Female,35-44,4,88,4,Positive,Parking,parking,Metro,No
+1780,15-01-2026,Visitor,Services,West,Area 2,Call Center,English,Male,25-34,4,91,4,Negative,Parking,parking,Metro,Yes
+1781,20-04-2026,Resident,Core Experience,West,Area 3,App,English,Male,55+,4,22,4,Positive,Wayfinding,signage,Car,Yes
+1782,21-05-2026,Retail Tenant,Awareness,North,Area 5,Website,English,Male,35-44,1,4,5,Negative,Digital,app,Car,Yes
+1783,16-01-2026,Employee,Arrival,West,Area 4,App,English,Male,18-24,2,5,3,Neutral,Security,security,Car,No
+1784,21-02-2025,Office Worker,Awareness,West,Area 1,App,Arabic,Female,25-34,3,69,2,Neutral,Cleanliness,maintenance,Car,No
+1785,21-02-2025,Retail Tenant,Exit,South,Area 3,Call Center,English,Male,18-24,3,100,2,Negative,Wayfinding,signage,Car,Yes
+1786,08-04-2026,Visitor,Core Experience,West,Area 2,Call Center,English,Female,55+,4,96,5,Positive,Digital,app,Car,No
+1787,20-06-2026,Resident,Arrival,Central,Area 2,Survey,Arabic,Male,25-34,4,66,5,Neutral,Security,security,Car,No
+1788,24-01-2026,Visitor,Services,West,Area 2,App,English,Male,45-54,1,15,5,Neutral,Parking,parking,Metro,Yes
+1789,10-05-2026,Office Worker,Arrival,West,Area 2,Website,English,Female,55+,3,47,5,Neutral,Digital,app,Metro,Yes
+1790,25-01-2026,Retail Tenant,Exit,West,Area 1,Call Center,Arabic,Male,35-44,5,-3,1,Neutral,Security,safety,Metro,No
+1791,08-04-2026,Retail Tenant,Arrival,South,Area 2,App,English,Male,35-44,4,-73,5,Neutral,Facilities,restroom,Metro,No
+1792,03-06-2026,Office Worker,Exit,North,Area 2,Survey,English,Female,25-34,4,95,1,Positive,Digital,wifi,Car,No
+1793,25-03-2026,Resident,Awareness,West,Area 2,Survey,Arabic,Female,35-44,2,-96,3,Neutral,Support,concierge,Metro,Yes
+1794,21-02-2025,Visitor,Services,South,Area 2,Website,Arabic,Male,45-54,4,45,3,Neutral,Facilities,restroom,Metro,Yes
+1795,21-01-2026,Resident,Exit,North,Area 2,Website,Arabic,Male,25-34,1,16,4,Positive,Cleanliness,cleanliness,Car,No
+1796,21-05-2026,Visitor,Services,North,Area 2,Website,English,Female,35-44,2,95,2,Neutral,Wayfinding,signage,Metro,Yes
+1797,11-01-2026,Employee,Core Experience,South,Area 2,App,English,Male,18-24,5,91,3,Positive,Cleanliness,cleanliness,Metro,Yes
+1798,21-02-2025,Visitor,Core Experience,East,Area 3,Survey,English,Female,18-24,5,-79,4,Positive,Support,helpdesk,Car,No
+1799,14-05-2026,Resident,Awareness,South,Area 5,Call Center,English,Female,18-24,5,27,2,Positive,Facilities,restroom,Metro,Yes
+1800,24-01-2026,Retail Tenant,Services,West,Area 2,Survey,English,Female,25-34,2,73,1,Negative,Cleanliness,maintenance,Car,Yes
+1801,08-05-2026,Employee,Services,North,Area 2,Call Center,English,Female,18-24,3,36,5,Neutral,Cleanliness,maintenance,Car,No
+1802,20-01-2026,Retail Tenant,Services,Central,Area 6,Website,Arabic,Female,35-44,5,22,5,Neutral,Digital,app,Metro,Yes
+1803,16-03-2026,Resident,Arrival,South,Area 3,Website,English,Female,18-24,3,38,3,Neutral,Parking,parking,Car,Yes
+1804,21-02-2025,Visitor,Core Experience,East,Area 2,Call Center,English,Female,35-44,5,66,3,Positive,Facilities,shade,Metro,No
+1805,21-02-2025,Employee,Awareness,South,Area 7,Website,Arabic,Female,35-44,1,97,2,Positive,Support,concierge,Metro,Yes
+1806,28-05-2026,Resident,Services,North,Area 3,Website,Arabic,Male,45-54,4,36,1,Neutral,Digital,app,Car,Yes
+1807,30-01-2026,Resident,Awareness,West,Area 2,Call Center,Arabic,Male,35-44,2,32,2,Neutral,Wayfinding,navigation,Car,Yes
+1808,17-05-2026,Retail Tenant,Exit,South,Area 2,Call Center,English,Male,25-34,2,32,3,Neutral,Wayfinding,navigation,Car,Yes
+1809,30-03-2026,Employee,Exit,Central,Area 2,Website,English,Male,45-54,4,19,4,Positive,Support,helpdesk,Metro,No
+1810,15-06-2026,Visitor,Core Experience,North,Area 3,Website,English,Male,18-24,5,-20,3,Neutral,Parking,parking,Car,No
+1811,26-03-2026,Office Worker,Awareness,West,Area 3,Survey,English,Female,45-54,4,58,4,Neutral,Facilities,restroom,Car,No
+1812,29-01-2026,Employee,Services,Central,Area 2,Call Center,English,Male,18-24,1,52,1,Neutral,Digital,app,Car,No
+1813,21-02-2025,Resident,Awareness,North,Area 2,App,English,Female,45-54,5,89,3,Positive,Wayfinding,navigation,Metro,No
+1814,18-01-2026,Visitor,Arrival,Central,Area 1,Survey,English,Female,55+,3,63,4,Negative,Parking,parking,Car,No
+1815,29-06-2026,Employee,Arrival,East,Area 7,Call Center,English,Female,55+,3,1,5,Positive,Digital,wifi,Metro,Yes
+1816,21-04-2026,Retail Tenant,Core Experience,East,Area 2,App,English,Female,25-34,1,82,4,Positive,Wayfinding,navigation,Metro,Yes
+1817,11-01-2026,Resident,Core Experience,North,Area 4,Call Center,English,Female,55+,3,69,1,Positive,Digital,wifi,Metro,Yes
+1818,26-03-2026,Resident,Exit,North,Area 1,Website,Arabic,Female,55+,4,55,2,Neutral,Cleanliness,cleanliness,Car,No
+1819,21-02-2025,Resident,Core Experience,East,Area 2,App,English,Male,35-44,2,35,4,Positive,Wayfinding,signage,Car,Yes
+1820,24-06-2026,Retail Tenant,Arrival,Central,Area 2,Website,Arabic,Male,18-24,3,44,3,Negative,Cleanliness,maintenance,Metro,Yes
+1821,26-05-2026,Office Worker,Exit,East,Area 2,App,Arabic,Female,35-44,5,17,5,Positive,Cleanliness,cleanliness,Car,No
+1822,29-06-2026,Employee,Awareness,South,Area 2,App,Arabic,Female,18-24,5,44,4,Positive,Support,concierge,Metro,Yes
+1823,08-03-2026,Resident,Exit,West,Area 5,Call Center,Arabic,Female,25-34,1,13,1,Positive,Security,safety,Metro,No
+1824,11-04-2026,Office Worker,Exit,East,Area 2,Website,English,Female,25-34,4,16,1,Positive,Digital,app,Metro,No
+1825,21-02-2025,Retail Tenant,Arrival,South,Area 6,App,English,Female,25-34,2,59,4,Negative,Cleanliness,maintenance,Car,Yes
+1826,04-03-2026,Retail Tenant,Awareness,West,Area 2,App,Arabic,Female,18-24,1,26,4,Neutral,Wayfinding,signage,Metro,Yes
+1827,01-01-2026,Resident,Arrival,West,Area 2,Survey,Arabic,Male,35-44,2,21,3,Positive,Facilities,shade,Car,Yes
+1828,28-04-2026,Resident,Core Experience,North,Area 2,Call Center,Arabic,Female,25-34,3,84,1,Positive,Wayfinding,navigation,Car,No
+1829,15-05-2026,Visitor,Services,East,Area 2,Survey,English,Female,55+,3,11,3,Neutral,Security,safety,Metro,Yes
+1830,07-05-2026,Employee,Awareness,Central,Area 1,Survey,Arabic,Male,25-34,3,7,2,Neutral,Security,security,Metro,No
+1831,06-01-2026,Visitor,Awareness,Central,Area 6,Survey,English,Female,18-24,4,93,3,Positive,Support,concierge,Metro,Yes
+1832,09-01-2026,Employee,Awareness,Central,Area 2,Survey,Arabic,Female,25-34,2,84,4,Positive,Facilities,shade,Metro,No
+1833,30-04-2026,Employee,Services,North,Area 6,Survey,Arabic,Male,18-24,1,1,1,Neutral,Wayfinding,navigation,Car,Yes
+1834,13-01-2026,Retail Tenant,Awareness,South,Area 2,Survey,Arabic,Female,25-34,2,10,4,Neutral,Wayfinding,navigation,Metro,Yes
+1835,13-01-2026,Office Worker,Exit,Central,Area 2,Call Center,Arabic,Male,18-24,2,29,5,Neutral,Digital,app,Car,Yes
+1836,04-04-2026,Office Worker,Services,North,Area 2,Call Center,Arabic,Female,18-24,5,2,4,Positive,Cleanliness,maintenance,Car,Yes
+1837,19-04-2026,Visitor,Arrival,West,Area 2,App,Arabic,Male,45-54,1,16,3,Positive,Cleanliness,maintenance,Metro,Yes
+1838,06-01-2026,Retail Tenant,Core Experience,South,Area 2,Survey,Arabic,Female,18-24,4,62,2,Positive,Security,safety,Metro,Yes
+1839,05-06-2026,Resident,Awareness,North,Area 2,Survey,Arabic,Male,45-54,1,50,2,Positive,Security,safety,Car,Yes
+1840,13-06-2026,Retail Tenant,Core Experience,East,Area 3,Call Center,Arabic,Male,18-24,1,14,1,Positive,Cleanliness,cleanliness,Metro,No
+1841,02-03-2026,Visitor,Exit,North,Area 2,App,English,Male,55+,3,39,3,Neutral,Cleanliness,cleanliness,Car,Yes
+1842,10-03-2026,Retail Tenant,Core Experience,North,Area 4,Website,Arabic,Male,18-24,2,100,4,Positive,Support,helpdesk,Metro,No
+1843,01-04-2026,Office Worker,Arrival,South,Area 7,Survey,English,Male,35-44,2,-92,2,Neutral,Parking,parking,Metro,Yes
+1844,10-01-2026,Office Worker,Services,South,Area 1,App,English,Male,45-54,5,2,5,Positive,Cleanliness,maintenance,Car,No
+1845,02-05-2026,Resident,Services,West,Area 4,Website,English,Male,55+,5,57,2,Neutral,Parking,parking,Metro,Yes
+1846,13-05-2026,Retail Tenant,Core Experience,South,Area 1,Call Center,English,Male,35-44,3,81,2,Neutral,Security,security,Car,Yes
+1847,01-06-2026,Employee,Core Experience,East,Area 3,Survey,Arabic,Female,45-54,2,79,4,Positive,Parking,parking,Car,Yes
+1848,01-04-2026,Office Worker,Awareness,East,Area 2,Survey,English,Male,35-44,4,12,2,Neutral,Support,helpdesk,Car,No
+1849,21-02-2025,Visitor,Core Experience,South,Area 1,Website,Arabic,Female,18-24,1,-4,2,Positive,Wayfinding,navigation,Metro,No
+1850,08-01-2026,Employee,Arrival,South,Area 4,Call Center,English,Female,18-24,1,94,5,Neutral,Wayfinding,signage,Car,No
+1851,21-02-2025,Resident,Exit,Central,Area 7,Website,English,Female,45-54,4,55,3,Positive,Wayfinding,navigation,Car,Yes
+1852,20-04-2026,Visitor,Arrival,South,Area 2,Website,Arabic,Male,25-34,3,32,2,Neutral,Wayfinding,signage,Car,Yes
+1853,15-01-2026,Retail Tenant,Arrival,East,Area 2,Website,Arabic,Female,55+,3,32,1,Negative,Parking,car park,Car,Yes
+1854,21-02-2025,Resident,Exit,East,Area 2,App,English,Female,35-44,5,77,5,Positive,Cleanliness,cleanliness,Metro,No
+1855,22-01-2026,Employee,Services,North,Area 2,Survey,Arabic,Male,45-54,5,100,3,Positive,Digital,app,Car,No
+1856,01-01-2026,Retail Tenant,Exit,West,Area 2,App,Arabic,Male,55+,1,27,3,Neutral,Wayfinding,navigation,Metro,Yes
+1857,21-02-2025,Employee,Awareness,South,Area 2,Call Center,Arabic,Male,45-54,5,66,5,Positive,Digital,app,Metro,No
+1858,04-06-2026,Retail Tenant,Awareness,West,Area 3,App,English,Male,45-54,2,38,4,Neutral,Cleanliness,maintenance,Metro,Yes
+1859,21-02-2025,Visitor,Core Experience,South,Area 2,Survey,English,Male,35-44,1,64,2,Positive,Security,security,Metro,Yes
+1860,29-01-2026,Resident,Services,South,Area 2,Website,Arabic,Female,45-54,4,31,1,Positive,Facilities,restroom,Metro,No
+1861,11-04-2026,Retail Tenant,Services,Central,Area 7,Call Center,English,Male,25-34,4,10,5,Neutral,Support,concierge,Car,Yes
+1862,28-06-2026,Employee,Awareness,West,Area 2,App,Arabic,Male,45-54,5,47,1,Neutral,Digital,app,Car,No
+1863,10-06-2026,Office Worker,Arrival,North,Area 1,App,Arabic,Female,25-34,3,50,2,Positive,Facilities,restroom,Car,No
+1864,01-05-2026,Employee,Services,West,Area 3,Survey,English,Female,25-34,5,47,4,Positive,Security,security,Car,Yes
+1865,24-06-2026,Employee,Services,West,Area 2,Call Center,Arabic,Female,35-44,5,98,2,Positive,Digital,app,Car,No
+1866,30-05-2026,Employee,Services,South,Area 1,App,English,Male,45-54,4,3,1,Neutral,Cleanliness,cleanliness,Car,No
+1867,05-01-2026,Employee,Services,North,Area 2,App,Arabic,Female,55+,5,2,1,Neutral,Digital,wifi,Metro,No
+1868,24-06-2026,Employee,Services,North,Area 6,Call Center,English,Male,45-54,3,6,2,Neutral,Cleanliness,cleanliness,Metro,No
+1869,23-06-2026,Employee,Arrival,North,Area 2,App,Arabic,Male,55+,1,65,4,Positive,Facilities,restroom,Metro,No
+1870,02-03-2026,Visitor,Exit,Central,Area 7,Survey,English,Male,45-54,3,99,5,Neutral,Security,security,Car,No
+1871,29-03-2026,Resident,Exit,East,Area 2,App,Arabic,Female,35-44,4,90,4,Neutral,Security,safety,Car,Yes
+1872,27-04-2026,Visitor,Awareness,West,Area 1,Survey,English,Female,55+,4,82,1,Neutral,Parking,car park,Car,No
+1873,21-02-2025,Visitor,Services,South,Area 6,Survey,Arabic,Female,25-34,5,79,5,Neutral,Facilities,restroom,Car,No
+1874,09-04-2026,Office Worker,Awareness,North,Area 2,App,English,Male,45-54,2,11,3,Neutral,Support,helpdesk,Metro,No
+1875,09-01-2026,Office Worker,Awareness,East,Area 2,App,Arabic,Male,35-44,3,66,1,Neutral,Cleanliness,cleanliness,Car,No
+1876,17-03-2026,Office Worker,Services,Central,Area 2,App,English,Male,18-24,2,69,2,Positive,Support,helpdesk,Car,Yes
+1877,04-01-2026,Visitor,Exit,East,Area 1,Website,English,Male,55+,3,76,4,Positive,Facilities,restroom,Metro,No
+1878,17-01-2026,Office Worker,Awareness,South,Area 2,App,Arabic,Male,35-44,1,90,3,Neutral,Support,concierge,Car,Yes
+1879,06-06-2026,Office Worker,Awareness,North,Area 2,Website,English,Female,45-54,4,8,2,Neutral,Digital,wifi,Car,No
+1880,22-03-2026,Office Worker,Exit,North,Area 1,Survey,Arabic,Male,55+,2,-45,1,Neutral,Wayfinding,navigation,Metro,Yes
+1881,20-04-2026,Office Worker,Awareness,West,Area 3,Survey,English,Male,45-54,1,79,4,Neutral,Wayfinding,signage,Car,No
+1882,11-05-2026,Employee,Services,East,Area 2,Survey,English,Female,35-44,5,40,1,Positive,Security,safety,Car,No
+1883,21-02-2025,Retail Tenant,Arrival,North,Area 2,Call Center,English,Male,55+,2,2,1,Neutral,Cleanliness,maintenance,Metro,No
+1884,19-06-2026,Office Worker,Exit,Central,Area 2,Call Center,Arabic,Female,35-44,2,21,1,Neutral,Wayfinding,navigation,Metro,Yes
+1885,05-04-2026,Employee,Core Experience,East,Area 2,Survey,English,Male,55+,4,67,3,Positive,Support,concierge,Car,Yes
+1886,23-04-2026,Retail Tenant,Arrival,West,Area 2,Call Center,Arabic,Female,35-44,5,22,3,Negative,Cleanliness,cleanliness,Metro,No
+1887,01-04-2026,Employee,Exit,East,Area 3,App,English,Female,45-54,3,96,2,Neutral,Security,safety,Metro,Yes
+1888,11-05-2026,Resident,Awareness,West,Area 2,Website,English,Male,55+,3,99,1,Positive,Cleanliness,cleanliness,Metro,Yes
+1889,03-05-2026,Office Worker,Arrival,West,Area 3,Website,English,Female,18-24,1,55,3,Positive,Facilities,shade,Car,Yes
+1890,08-03-2026,Visitor,Awareness,South,Area 2,Call Center,English,Female,35-44,3,9,5,Neutral,Parking,parking,Metro,No
+1891,25-01-2026,Resident,Services,East,Area 6,Survey,English,Female,45-54,3,81,5,Neutral,Parking,parking,Metro,No
+1892,21-02-2025,Retail Tenant,Exit,Central,Area 1,App,Arabic,Male,18-24,1,-42,4,Negative,Digital,wifi,Metro,No
+1893,15-06-2026,Retail Tenant,Services,East,Area 1,Survey,Arabic,Female,25-34,5,8,3,Neutral,Security,security,Car,Yes
+1894,07-01-2026,Resident,Core Experience,Central,Area 3,App,English,Female,55+,4,22,5,Positive,Wayfinding,signage,Metro,Yes
+1895,21-02-2025,Retail Tenant,Core Experience,East,Area 1,App,English,Female,25-34,3,33,2,Neutral,Parking,parking,Car,No
+1896,21-06-2026,Retail Tenant,Arrival,North,Area 3,Call Center,Arabic,Female,35-44,1,-14,5,Negative,Cleanliness,maintenance,Car,No
+1897,06-01-2026,Visitor,Arrival,North,Area 7,Website,Arabic,Male,45-54,1,-6,2,Neutral,Wayfinding,signage,Car,No
+1898,03-01-2026,Employee,Arrival,North,Area 1,Website,English,Male,55+,5,6,1,Positive,Facilities,shade,Car,No
+1899,08-05-2026,Employee,Awareness,West,Area 2,Call Center,English,Male,55+,1,6,2,Neutral,Facilities,restroom,Metro,No
+1900,07-03-2026,Resident,Core Experience,East,Area 7,Website,English,Male,25-34,4,50,3,Positive,Support,helpdesk,Metro,Yes
+1901,12-03-2026,Employee,Awareness,West,Area 2,Call Center,Arabic,Male,45-54,2,5,2,Neutral,Wayfinding,navigation,Metro,Yes
+1902,10-06-2026,Retail Tenant,Arrival,Central,Area 3,Survey,English,Female,35-44,5,29,4,Negative,Parking,car park,Car,Yes
+1903,02-04-2026,Employee,Awareness,South,Area 3,Website,Arabic,Female,45-54,3,54,2,Negative,Parking,parking,Metro,Yes
+1904,27-03-2026,Visitor,Exit,Central,Area 2,Website,Arabic,Female,18-24,3,10,3,Neutral,Digital,wifi,Car,Yes
+1905,19-03-2026,Employee,Exit,West,Area 2,App,English,Female,35-44,5,16,3,Neutral,Support,helpdesk,Metro,No
+1906,21-02-2025,Visitor,Arrival,East,Area 2,Survey,English,Female,25-34,5,23,1,Neutral,Parking,car park,Car,No
+1907,21-02-2025,Retail Tenant,Exit,South,Area 2,Call Center,Arabic,Male,25-34,2,6,5,Negative,Cleanliness,maintenance,Car,No
+1908,06-06-2026,Retail Tenant,Awareness,East,Area 2,Survey,English,Female,45-54,4,60,1,Negative,Digital,app,Metro,Yes
+1909,22-06-2026,Retail Tenant,Core Experience,East,Area 2,Website,Arabic,Female,45-54,3,42,3,Positive,Support,helpdesk,Car,Yes
+1910,30-04-2026,Visitor,Exit,North,Area 6,App,Arabic,Female,25-34,1,-42,5,Neutral,Digital,app,Metro,No
+1911,28-04-2026,Visitor,Awareness,North,Area 2,Website,Arabic,Male,45-54,1,26,3,Neutral,Digital,app,Metro,No
+1912,16-03-2026,Visitor,Services,Central,Area 5,Call Center,English,Female,35-44,3,-62,5,Negative,Parking,parking,Metro,Yes
+1913,21-03-2026,Visitor,Services,North,Area 2,Website,English,Female,55+,5,60,2,Positive,Support,concierge,Car,No
+1914,01-05-2026,Retail Tenant,Exit,East,Area 2,Website,Arabic,Female,55+,3,64,5,Neutral,Security,security,Metro,Yes
+1915,21-02-2025,Retail Tenant,Core Experience,South,Area 3,Website,English,Male,35-44,2,98,5,Positive,Wayfinding,signage,Metro,Yes
+1916,24-03-2026,Visitor,Awareness,East,Area 2,Call Center,Arabic,Male,55+,2,1,2,Neutral,Parking,parking,Car,Yes
+1917,21-02-2025,Employee,Core Experience,West,Area 1,Website,Arabic,Male,35-44,4,30,1,Positive,Cleanliness,cleanliness,Metro,No
+1918,09-06-2026,Office Worker,Arrival,Central,Area 5,Website,Arabic,Male,35-44,5,82,3,Positive,Security,safety,Car,No
+1919,21-03-2026,Retail Tenant,Arrival,East,Area 1,Website,English,Female,45-54,1,1,3,Neutral,Support,concierge,Car,No
+1920,27-01-2026,Retail Tenant,Arrival,North,Area 1,Website,English,Male,25-34,4,14,3,Neutral,Security,safety,Car,Yes
+1921,25-04-2026,Employee,Awareness,South,Area 1,Website,English,Male,25-34,2,31,5,Positive,Digital,wifi,Metro,No
+1922,16-05-2026,Retail Tenant,Services,West,Area 2,Call Center,English,Female,18-24,4,8,4,Neutral,Support,helpdesk,Car,Yes
+1923,21-02-2025,Office Worker,Arrival,North,Area 6,Survey,Arabic,Male,55+,2,-89,3,Positive,Digital,app,Car,Yes
+1924,25-01-2026,Visitor,Core Experience,East,Area 2,Call Center,English,Female,55+,1,67,2,Positive,Digital,wifi,Metro,No
+1925,12-06-2026,Employee,Arrival,East,Area 2,Survey,English,Female,55+,4,-42,3,Positive,Facilities,restroom,Metro,Yes
+1926,21-02-2025,Retail Tenant,Arrival,North,Area 1,Call Center,Arabic,Female,45-54,1,13,5,Neutral,Wayfinding,navigation,Metro,No
+1927,08-01-2026,Office Worker,Awareness,East,Area 6,Call Center,Arabic,Female,18-24,5,82,2,Neutral,Parking,parking,Car,No
+1928,21-02-2025,Retail Tenant,Services,West,Area 4,Survey,Arabic,Male,55+,4,76,1,Negative,Digital,wifi,Metro,No
+1929,21-02-2025,Visitor,Awareness,West,Area 2,Survey,English,Male,25-34,5,-45,1,Neutral,Wayfinding,navigation,Car,No
+1930,03-03-2026,Visitor,Exit,North,Area 1,Website,Arabic,Female,25-34,2,38,2,Positive,Wayfinding,navigation,Metro,Yes
+1931,12-06-2026,Office Worker,Services,West,Area 5,Call Center,Arabic,Female,18-24,3,51,3,Neutral,Cleanliness,maintenance,Metro,No
+1932,08-05-2026,Resident,Arrival,West,Area 2,Survey,English,Male,45-54,3,58,3,Neutral,Parking,parking,Car,Yes
+1933,15-05-2026,Office Worker,Services,South,Area 1,App,English,Female,35-44,3,10,2,Neutral,Digital,wifi,Metro,No
+1934,07-04-2026,Office Worker,Exit,West,Area 1,Survey,English,Female,55+,2,100,2,Neutral,Wayfinding,signage,Metro,Yes
+1935,27-04-2026,Office Worker,Awareness,East,Area 2,Call Center,Arabic,Female,25-34,5,20,1,Neutral,Facilities,shade,Car,No
+1936,25-04-2026,Retail Tenant,Exit,Central,Area 2,App,English,Female,18-24,1,58,2,Neutral,Facilities,restroom,Car,Yes
+1937,24-04-2026,Resident,Core Experience,East,Area 2,Website,English,Male,25-34,4,53,3,Positive,Facilities,shade,Car,Yes
+1938,26-03-2026,Office Worker,Awareness,North,Area 2,App,English,Female,35-44,1,46,5,Neutral,Cleanliness,cleanliness,Car,Yes
+1939,26-01-2026,Office Worker,Awareness,East,Area 7,Survey,English,Male,18-24,2,40,4,Neutral,Digital,wifi,Car,No
+1940,13-05-2026,Employee,Services,East,Area 2,Call Center,Arabic,Female,55+,4,16,3,Neutral,Wayfinding,signage,Car,Yes
+1941,20-05-2026,Visitor,Core Experience,West,Area 2,Website,English,Male,45-54,1,-13,2,Positive,Wayfinding,navigation,Car,Yes
+1942,21-02-2025,Retail Tenant,Core Experience,South,Area 7,Website,Arabic,Male,55+,3,6,5,Neutral,Support,concierge,Metro,Yes
+1943,08-03-2026,Resident,Services,Central,Area 1,Call Center,Arabic,Male,45-54,2,19,3,Positive,Facilities,shade,Car,No
+1944,27-04-2026,Retail Tenant,Awareness,Central,Area 2,Survey,Arabic,Male,35-44,1,46,2,Neutral,Wayfinding,navigation,Metro,No
+1945,15-01-2026,Employee,Arrival,East,Area 6,Call Center,Arabic,Male,45-54,4,7,5,Neutral,Parking,car park,Car,No
+1946,09-03-2026,Office Worker,Services,North,Area 2,Call Center,Arabic,Female,45-54,3,23,3,Neutral,Wayfinding,signage,Car,Yes
+1947,19-06-2026,Visitor,Services,South,Area 1,Survey,Arabic,Male,55+,1,58,4,Neutral,Security,security,Car,No
+1948,21-02-2025,Resident,Services,West,Area 2,Survey,English,Female,18-24,5,32,5,Positive,Digital,wifi,Car,No
+1949,12-05-2026,Office Worker,Services,North,Area 6,Survey,English,Female,25-34,1,14,4,Neutral,Facilities,restroom,Car,Yes
+1950,21-02-2025,Office Worker,Awareness,Central,Area 2,Survey,Arabic,Male,35-44,2,2,1,Neutral,Support,helpdesk,Metro,Yes
+1951,19-01-2026,Visitor,Arrival,West,Area 2,Call Center,English,Female,18-24,1,17,2,Neutral,Support,helpdesk,Metro,No
+1952,21-02-2025,Resident,Exit,West,Area 3,Call Center,Arabic,Female,18-24,2,48,4,Positive,Security,safety,Car,Yes
+1953,21-02-2025,Visitor,Services,West,Area 2,Website,English,Female,55+,1,76,5,Positive,Support,concierge,Metro,Yes
+1954,21-02-2025,Resident,Arrival,South,Area 2,Survey,Arabic,Female,55+,3,3,1,Neutral,Support,helpdesk,Metro,Yes
+1955,21-02-2025,Retail Tenant,Arrival,South,Area 2,Website,Arabic,Female,25-34,1,83,2,Neutral,Facilities,shade,Metro,Yes
+1956,06-04-2026,Employee,Awareness,North,Area 2,Survey,Arabic,Female,45-54,4,12,2,Positive,Security,safety,Metro,No
+1957,15-01-2026,Office Worker,Core Experience,North,Area 2,Call Center,Arabic,Male,45-54,3,6,1,Neutral,Parking,car park,Metro,No
+1958,21-02-2025,Employee,Core Experience,West,Area 1,App,English,Female,25-34,4,22,1,Positive,Parking,parking,Car,No
+1959,05-03-2026,Employee,Arrival,South,Area 3,Website,Arabic,Male,18-24,5,93,4,Neutral,Security,safety,Car,No
+1960,21-02-2025,Employee,Arrival,South,Area 2,Website,Arabic,Male,25-34,4,4,4,Neutral,Security,security,Metro,No
+1961,18-04-2026,Employee,Services,North,Area 2,Survey,English,Male,35-44,4,23,4,Positive,Digital,app,Car,Yes
+1962,05-03-2026,Resident,Awareness,West,Area 6,Survey,Arabic,Female,18-24,3,24,2,Positive,Cleanliness,maintenance,Metro,Yes
+1963,02-03-2026,Office Worker,Exit,Central,Area 3,Website,English,Male,45-54,3,58,3,Neutral,Security,safety,Car,Yes
+1964,21-02-2025,Office Worker,Core Experience,West,Area 2,Website,English,Female,25-34,2,79,1,Positive,Digital,app,Car,Yes
+1965,25-06-2026,Employee,Exit,East,Area 2,App,Arabic,Male,55+,5,32,5,Negative,Parking,parking,Car,No
+1966,04-01-2026,Retail Tenant,Services,South,Area 1,App,Arabic,Female,35-44,3,-48,4,Neutral,Facilities,shade,Car,Yes
+1967,22-03-2026,Resident,Exit,West,Area 2,Call Center,Arabic,Male,25-34,5,8,4,Neutral,Facilities,shade,Metro,Yes
+1968,28-05-2026,Retail Tenant,Core Experience,Central,Area 1,Call Center,Arabic,Female,55+,1,50,3,Neutral,Parking,car park,Metro,Yes
+1969,21-02-2025,Retail Tenant,Exit,Central,Area 1,Survey,English,Male,45-54,2,26,4,Negative,Support,concierge,Metro,Yes
+1970,18-01-2026,Visitor,Exit,South,Area 1,Website,Arabic,Female,25-34,5,81,2,Positive,Cleanliness,maintenance,Metro,No
+1971,26-06-2026,Resident,Awareness,East,Area 2,Website,English,Male,25-34,5,49,1,Positive,Wayfinding,signage,Metro,No
+1972,16-05-2026,Office Worker,Exit,East,Area 2,Call Center,Arabic,Female,25-34,3,70,4,Neutral,Parking,parking,Car,Yes
+1973,21-04-2026,Office Worker,Awareness,North,Area 2,Survey,Arabic,Female,25-34,4,73,3,Neutral,Support,concierge,Car,Yes
+1974,12-06-2026,Office Worker,Arrival,South,Area 1,Survey,English,Female,45-54,5,50,3,Neutral,Parking,car park,Car,No
+1975,12-04-2026,Office Worker,Arrival,Central,Area 2,Website,English,Female,35-44,3,4,2,Neutral,Parking,parking,Metro,No
+1976,27-03-2026,Resident,Core Experience,East,Area 5,Website,English,Male,25-34,3,29,5,Positive,Facilities,restroom,Car,Yes
+1977,22-02-2025,Retail Tenant,Awareness,South,Area 5,App,Arabic,Female,45-54,1,8,3,Neutral,Cleanliness,maintenance,Car,No
+1978,09-05-2026,Resident,Arrival,South,Area 2,App,English,Female,45-54,4,46,5,Positive,Wayfinding,navigation,Metro,Yes
+1979,28-06-2026,Resident,Core Experience,North,Area 7,App,Arabic,Male,35-44,5,21,2,Positive,Cleanliness,maintenance,Car,No
+1980,27-01-2026,Resident,Arrival,North,Area 6,Survey,Arabic,Male,18-24,1,85,2,Positive,Cleanliness,cleanliness,Metro,Yes
+1981,22-02-2025,Visitor,Arrival,East,Area 2,Survey,English,Female,25-34,2,69,3,Positive,Wayfinding,signage,Car,No
+1982,05-01-2026,Resident,Exit,East,Area 1,App,English,Male,18-24,1,74,2,Neutral,Facilities,restroom,Car,Yes
+1983,07-03-2026,Retail Tenant,Awareness,East,Area 1,Website,English,Male,55+,4,23,3,Neutral,Digital,wifi,Car,Yes
+1984,22-02-2025,Employee,Awareness,South,Area 2,App,Arabic,Male,55+,2,76,2,Neutral,Parking,parking,Metro,No
+1985,05-03-2026,Visitor,Exit,East,Area 2,App,Arabic,Female,45-54,3,76,3,Neutral,Wayfinding,signage,Car,Yes
+1986,07-01-2026,Resident,Awareness,Central,Area 2,Survey,Arabic,Female,25-34,1,73,3,Positive,Digital,wifi,Metro,No
+1987,01-06-2026,Retail Tenant,Awareness,East,Area 6,App,English,Female,18-24,5,73,2,Neutral,Support,concierge,Car,Yes
+1988,04-06-2026,Resident,Arrival,Central,Area 2,Website,English,Male,35-44,2,70,4,Positive,Cleanliness,cleanliness,Car,No
+1989,25-04-2026,Employee,Exit,West,Area 6,App,Arabic,Female,18-24,3,63,2,Neutral,Wayfinding,navigation,Car,Yes
+1990,25-06-2026,Visitor,Awareness,North,Area 1,Call Center,English,Female,18-24,1,8,1,Neutral,Cleanliness,maintenance,Metro,Yes
+1991,13-04-2026,Resident,Exit,Central,Area 2,Survey,Arabic,Female,55+,2,29,5,Neutral,Digital,app,Metro,Yes
+1992,22-02-2025,Office Worker,Core Experience,East,Area 2,App,Arabic,Male,25-34,1,62,5,Positive,Digital,wifi,Car,Yes
+1993,21-05-2026,Resident,Awareness,East,Area 2,Survey,English,Female,55+,1,79,3,Neutral,Cleanliness,maintenance,Metro,No
+1994,25-06-2026,Employee,Awareness,South,Area 2,Website,Arabic,Female,25-34,2,44,2,Neutral,Wayfinding,signage,Metro,No
+1995,19-05-2026,Employee,Services,West,Area 3,App,Arabic,Female,35-44,2,8,3,Neutral,Wayfinding,navigation,Car,Yes
+1996,04-03-2026,Retail Tenant,Arrival,South,Area 2,Website,English,Female,55+,1,76,2,Neutral,Digital,app,Car,No
+1997,10-05-2026,Employee,Arrival,North,Area 2,App,Arabic,Female,55+,2,68,1,Neutral,Cleanliness,cleanliness,Metro,Yes
+1998,01-03-2026,Employee,Core Experience,South,Area 2,Call Center,English,Female,45-54,3,48,1,Positive,Security,security,Metro,Yes
+1999,20-03-2026,Visitor,Awareness,East,Area 6,Survey,Arabic,Female,18-24,4,13,5,Positive,Digital,app,Car,No
+2000,19-01-2026,Retail Tenant,Core Experience,West,Area 2,Survey,English,Male,18-24,3,42,3,Neutral,Cleanliness,cleanliness,Metro,Yes
